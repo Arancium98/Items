@@ -1,0 +1,16 @@
+{
+    "Weapons": {
+        "Axes": [
+            {
+                "name": "Stone Axe",
+                "damage": 10,
+                "durability": 50
+            },
+            {
+                "name": "Iron Axe",
+                "damage": 15,
+                "durability": 75
+            }
+        ]
+    }
+}
