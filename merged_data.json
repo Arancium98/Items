@@ -1,0 +1,161 @@
+{
+    "subtype_1": [
+        {
+            "id_type": "type_1",
+            "category": "Weapons",
+            "subtypes": "subtype_1"
+        },
+        {
+            "subtypes": "subtype_1",
+            "id_subtype": "sub_2",
+            "type": "Axes",
+            "items": "items_2"
+        },
+        {
+            "subtypes": "subtype_1",
+            "id_subtype": "sub_5",
+            "type": "Bows",
+            "items": "items_5"
+        },
+        {
+            "subtypes": "subtype_1",
+            "id_subtype": "sub_4",
+            "type": "Claws",
+            "items": "items_4"
+        },
+        {
+            "subtypes": "subtype_1",
+            "id_subtype": "sub_19",
+            "type": "Daggers",
+            "items": "items_19"
+        },
+        {
+            "subtypes": "subtype_1",
+            "id_subtype": "sub_21",
+            "type": "Fists",
+            "items": "items_21"
+        },
+        {
+            "subtypes": "subtype_1",
+            "id_subtype": "sub_7",
+            "type": "Hammers",
+            "items": "items_7"
+        },
+        {
+            "subtypes": "subtype_1",
+            "id_subtype": "sub_6",
+            "type": "Javelins",
+            "items": "items_6"
+        },
+        {
+            "subtypes": "subtype_1",
+            "id_subtype": "sub_20",
+            "type": "Phantoms",
+            "items": "items_20"
+        },
+        {
+            "subtypes": "subtype_1",
+            "id_subtype": "sub_8",
+            "type": "Scythes",
+            "items": "items_8"
+        },
+        {
+            "subtypes": "subtype_1",
+            "id_subtype": "sub_3",
+            "type": "Swords",
+            "items": "items_3"
+        },
+        {
+            "subtypes": "subtype_1",
+            "id_subtype": "sub_1",
+            "type": "Wands & Staffs",
+            "items": "items_1"
+        }
+    ],
+    "subtype_2": [
+        {
+            "id_type": "type_2",
+            "category": "Defenses",
+            "subtypes": "subtype_2"
+        },
+        {
+            "subtypes": "subtype_2",
+            "id_subtype": "sub_10",
+            "type": "Armors",
+            "items": "items_10"
+        },
+        {
+            "subtypes": "subtype_2",
+            "id_subtype": "sub_9",
+            "type": "Robes",
+            "items": "items_9"
+        },
+        {
+            "subtypes": "subtype_2",
+            "id_subtype": "sub_11",
+            "type": "Shields",
+            "items": "items_11"
+        },
+        {
+            "subtypes": "subtype_2",
+            "id_subtype": "sub_12",
+            "type": "Orbs",
+            "items": "items_12"
+        },
+        {
+            "subtypes": "subtype_2",
+            "id_subtype": "sub_13",
+            "type": "Bracelets",
+            "items": "items_13"
+        },
+        {
+            "subtypes": "subtype_2",
+            "id_subtype": "sub_14",
+            "type": "Gauntlets",
+            "items": "items_14"
+        },
+        {
+            "subtypes": "subtype_2",
+            "id_subtype": "sub_15",
+            "type": "Boots",
+            "items": "items_15"
+        }
+    ],
+    "subtype_3": [
+        {
+            "id_type": "type_3",
+            "category": "Accessories",
+            "subtypes": "subtype_3"
+        },
+        {
+            "subtypes": "subtype_3",
+            "id_subtype": "sub_16",
+            "type": "Amulets",
+            "items": "items_16"
+        },
+        {
+            "subtypes": "subtype_3",
+            "id_subtype": "sub_23",
+            "type": "Belts",
+            "items": "items_23"
+        },
+        {
+            "subtypes": "subtype_3",
+            "id_subtype": "sub_22",
+            "type": "Earrings",
+            "items": "items_22"
+        },
+        {
+            "subtypes": "subtype_3",
+            "id_subtype": "sub_17",
+            "type": "Rings",
+            "items": "items_17"
+        },
+        {
+            "subtypes": "subtype_3",
+            "id_subtype": "sub_18",
+            "type": "Sheltoms",
+            "items": "items_18"
+        }
+    ]
+}
