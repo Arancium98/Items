@@ -1,0 +1,376 @@
+xd,item_name,item_id,item_image_url,,Primary Spec,Secondary Spec,Weight,Price,weightxd,pricexd,Level,Strength,Talent,Agility,Spirit
+627,Stone Axe,WA101,images/items/itWA101.jpg,,FS,MS,5,60,5,60,,,,,
+628,Steel Axe,WA102,images/items/itWA102.jpg,,FS,MS,ASS,8,8,420,,,,,
+629,Battle Axe,WA103,images/items/itWA103.jpg,,FS,MS,12,800,12,800,7,38,,,
+630,War Axe,WA104,images/items/itWA104.jpg,,FS,MS,ASS,15,15,1800,10,50,30,,
+631,Double Sided War Axe,WA105,images/items/itWA105.jpg,,FS,MS,19,4600,19,4600,16,60,36,,
+632,Bat Axe,WA106,images/items/itWA106.jpg,,FS,MS,17,9800,17,9800,22,75,40,,
+633,Mechanic Axe,WA107,images/items/itWA107.jpg,,FS,MS,21,16000,21,16000,30,86,50,,
+634,Double Headed Axe,WA108,images/items/itWA108.jpg,,FS,MS,28,22000,28,22000,37,100,56,,
+635,Great Axe,WA109,images/items/itWA109.jpg,,FS,MS,BS,35,35,26000,44,110,60,,
+636,Diamond Axe,WA110,images/items/itWA110.jpg,,FS,MS,41,32000,41,32000,50,118,65,,
+637,Jagged Axe,WA111,images/items/itWA111.jpg,,FS,MS,42,40000,42,40000,55,110,70,50,
+638,Cleaver,WA112,images/items/itWA112.jpg,,FS,MS,43,52000,43,52000,60,134,80,,
+639,Gigantic Axe,WA113,images/items/itWA113.jpg,,FS,MS,48,63000,48,63000,65,145,90,,
+640,Tomahawk,WA114,images/items/itWA114.jpg,,FS,MS,PS,37,37,74000,70,140,90,,38
+641,Titan Axe,WA115,images/items/itWA115.jpg,,FS,MS,53,160000,53,160000,75,155,90,,
+642,Chaos Axe,WA116,images/items/itWA116.jpg,,FS,MS,48,270000,48,270000,80,160,90,,
+643,Ancient Axe,WA117,images/items/itWA117.jpg,,FS,MS,60,440000,60,440000,84,166,90,,
+644,Relic Axe,WA118,images/items/itWA118.jpg,,FS,MS,64,720000,64,720000,88,160,90,,38
+645,Extreme Axe,WA119,images/items/itWA119.jpg,,FS,MS,69,1300000,69,1300000,92,172,90,,
+646,Fury Axe,WA120,images/items/itWA120.jpg,,FS,MS,72,1400000,72,1400000,96,178,90,,
+650,Shard Axe,WA301,images/items/itWA301.jpg,,FS,MS,75,1500000,75,1500000,98,180,90,,
+651,Shadow Axe,WA302,images/items/itWA302.jpg,,FS,MS,BS,78,78,1600000,100,186,90,,
+647,Wyvern Axe,WA121,images/items/itWA121.jpg,,FS,MS,81,1700000,81,1700000,104,193,90,,
+652,Inferno Axe,WA303,images/items/itWA303.jpg,,FS,MS,84,1800000,84,1800000,106,190,90,,
+648,Zecram Axe,WA122,images/items/itWA122.jpg,,FS,MS,88,1900000,88,1900000,110,205,90,,
+653,Blazing Axe,WA304,images/items/itWA304.jpg,,FS,MS,PS,92,92,2000000,114,215,90,,
+654,Demolition Axe,WA305,images/items/itWA305.jpg,,FS,MS,95,2050000,95,2050000,116,220,90,,
+649,Dragon Axe,WA123,images/items/itWA123.jpg,,FS,MS,98,2100000,98,2100000,120,230,90,,
+655,Gladiator Axe,WA306,images/items/itWA306.jpg,,FS,MS,92,2150000,92,2150000,122,245,90,,
+892,Kronos Axe,WA124,images/items/itWA124.jpg,,FS,MS,103,2200000,103,2200000,126,260,90,,
+4909,Mythology Axe,WA307,images/items/itWA307.jpg,,FS,MS,113,2250000,113,2250000,130,280,90,,
+11056,Deadly Axe,WA128,images/items/itWA128.jpg,,FS,MS,122,2650000,122,2650000,134,300,90,,
+17165,Zealous Axe,WA308,images/items/itWA308.jpg,,FS,MS,PS,130,130,3030000,138,320,90,,
+19225,Havoc Axe,WA309,images/items/itWA309.jpg,,FS,MS,PS,136,136,3410000,142,340,90,,
+20783,Memorial Axe,WA310,images/items/itWA310.jpg,,FS,MS,PS,142,142,3920000,146,360,95,,
+771,Short Bow,WS101,images/items/itWS101.jpg,,AS,ASS,ATS,3,3,70,,,,,
+772,Horned Bow,WS102,images/items/itWS102.jpg,,AS,MS,PS,ATS,5,300,,,,,
+773,Hand CrossBow,WS103,images/items/itWS103.jpg,,AS,MS,ASS,ATS,7,720,,,,32,
+774,CrossBow,WS104,images/items/itWS104.jpg,,AS,ASS,ATS,10,10,1300,6,,24,36,
+775,Battle Bow,WS105,images/items/itWS105.jpg,,AS,ASS,ATS,13,13,2800,9,,36,42,
+776,Great Bow,WS106,images/items/itWS106.jpg,,AS,ATS,16,4800,16,4800,15,33,40,46,
+777,War Bow,WS107,images/items/itWS107.jpg,,AS,MS,FS,ATS,19,9300,20,40,44,54,
+778,Great CrossBow,WS108,images/items/itWS108.jpg,,AS,FS,ATS,26,26,16000,25,46,50,60,
+779,Metal Hand CrossBow,WS109,images/items/itWS109.jpg,,AS,MS,ATS,22,22,25000,30,48,50,65,
+780,Double CrossBow,WS110,images/items/itWS110.jpg,,AS,ATS,30,33000,30,33000,36,50,55,78,
+781,Bone Bow,WS111,images/items/itWS111.jpg,,AS,ASS,ATS,28,28,40000,41,56,56,82,
+782,Sagittarius,WS112,images/items/itWS112.jpg,,AS,MS,FS,PS,32,47000,47,60,60,90,
+783,Ancient CrossBow,WS113,images/items/itWS113.jpg,,AS,MS,ATS,37,37,52000,53,64,65,95,
+784,Titan Bow,WS114,images/items/itWS114.jpg,,AS,MS,FS,PS,39,58000,59,70,70,114,
+785,Chaos Bow,WS115,images/items/itWS115.jpg,,AS,MS,PS,KS,30,64000,64,60,72,130,36
+786,Swift Bow,WS116,images/items/itWS116.jpg,,AS,MS,KS,ATS,35,76000,70,70,76,136,40
+787,Relic CrossBow,WS117,images/items/itWS117.jpg,,AS,MS,ATS,42,42,150000,75,70,80,140,40
+788,Thunder Bow,WS118,images/items/itWS118.jpg,,AS,MS,ATS,48,48,260000,80,76,80,146,
+789,Wave Bow,WS119,images/items/itWS119.jpg,,AS,MS,ATS,52,52,410000,84,76,84,150,
+790,Grand CrossBow,WS120,images/items/itWS120.jpg,,AS,MS,ATS,56,56,690000,88,80,86,156,
+791,Mirage Bow,WS121,images/items/itWS121.jpg,,AS,MS,ATS,60,60,1100000,92,80,80,160,40
+792,Dragon Bow,WS122,images/items/itWS122.jpg,,AS,MS,ATS,62,62,1200000,96,80,80,163,
+822,Hunters CrossBow,WS301,images/items/itWS301.jpg,,AS,MS,ATS,64,64,1300000,98,80,80,168,
+823,Viper Bow,WS302,images/items/itWS302.jpg,,AS,MS,ATS,66,66,1400000,100,80,80,172,
+793,Wyvern Bow,WS123,images/items/itWS123.jpg,,AS,MS,ATS,68,68,1500000,104,80,80,180,40
+824,Enigma Bow,WS303,images/items/itWS303.jpg,,AS,MS,ASS,ATS,70,1600000,106,80,80,188,40
+794,Immortal Bow,WS124,images/items/itWS124.jpg,,AS,MS,ATS,72,72,1700000,110,80,80,196,40
+825,Supreme Bow,WS304,images/items/itWS304.jpg,,AS,MS,ATS,74,74,1800000,114,80,80,204,40
+826,Rogue Bow,WS305,images/items/itWS305.jpg,,AS,MS,ATS,75,75,1850000,116,80,80,208,40
+795,Salamander Bow,WS125,images/items/itWS125.jpg,,AS,MS,ATS,76,76,1900000,120,80,80,212,40
+827,Fatal Hand CrossBow,WS306,images/items/itWS306.jpg,,AS,MS,ATS,68,68,1950000,122,80,80,218,40
+896,Kronos Bow,WS126,images/items/itWS126.jpg,,AS,MS,ATS,80,80,2100000,126,80,80,224,40
+4911,Mythology Bow,WS307,images/items/itWS307.jpg,,AS,MS,ATS,85,85,2200000,130,80,80,232,40
+11063,Corrupted Bow,WS129,images/items/itWS129.jpg,,AS,MS,BS,ATS,85,2200000,134,80,80,242,40
+17168,Lucifer Bow,WS308,images/items/itWS308.jpg,,AS,MS,ATS,90,90,2780000,138,80,80,252,40
+19230,Astral Hand Crossbow,WS309,images/items/itWS309.jpg,,AS,MS,ATS,95,95,3360000,142,80,80,262,40
+20795,Moonshine,WS310,images/items/itWS310.jpg,,AS,MS,ATS,100,100,3860000,146,80,85,272,40
+656,Eagle Claw,WC101,images/items/itWC101.jpg,,MS,ASS,ATS,5,5,70,,,22,24,
+657,Tiger Claw,WC102,images/items/itWC102.jpg,,MS,ATS,7,470,7,470,,,24,26,
+658,Griffin Claw,WC103,images/items/itWC103.jpg,,MS,ASS,ATS,12,12,1400,7,25,26,24,
+659,Snake Tooth,WC104,images/items/itWC104.jpg,,MS,BS,ATS,14,14,3500,10,36,30,30,
+660,Lightning Arm,WC105,images/items/itWC105.jpg,,MS,ATS,19,6400,19,6400,16,44,34,34,
+661,Fingered Edge,WC106,images/items/itWC106.jpg,,MS,ATS,16,9200,16,9200,22,54,40,40,
+662,Hand Blade,WC107,images/items/itWC107.jpg,,MS,PS,BS,KS,18,13000,30,60,45,45,
+663,Pharaoh,WC108,images/items/itWC108.jpg,,MS,ATS,SS,17,17,18000,37,70,50,50,
+664,Brutal Claw,WC109,images/items/itWC109.jpg,,MS,FS,PS,BS,20,25000,44,84,55,55,
+665,Hydra Claw,WC110,images/items/itWC110.jpg,,MS,ATS,23,32000,23,32000,50,90,61,61,
+666,Leviathan,WC111,images/items/itWC111.jpg,,MS,ATS,26,39000,26,39000,55,80,65,65,40
+667,Wyvern Claw,WC112,images/items/itWC112.jpg,,MS,ATS,28,47000,28,47000,60,100,76,76,
+668,Chaos Claw,WC113,images/items/itWC113.jpg,,MS,PS,ATS,38,38,58000,65,88,80,80,40
+669,Wing Talon,WC114,images/items/itWC114.jpg,,MS,ATS,34,67000,34,67000,70,110,80,80,
+670,Doom Talon,WC115,images/items/itWC115.jpg,,MS,ATS,37,150000,37,150000,75,118,80,80,
+671,Titan Talon,WC116,images/items/itWC116.jpg,,MS,ATS,50,260000,50,260000,80,125,80,80,
+672,Salamander Talon,WC117,images/items/itWC117.jpg,,MS,ATS,45,410000,45,410000,84,120,84,80,
+673,Phoenix Talon,WC118,images/items/itWC118.jpg,,MS,ATS,49,690000,49,690000,88,125,86,80,
+674,Chimera Talon,WC119,images/items/itWC119.jpg,,MS,FS,PS,ATS,54,1150000,92,130,88,80,38
+675,Dragon Talon,WC120,images/items/itWC120.jpg,,MS,FS,PS,ASS,58,1250000,96,140,90,80,
+679,Bloody Claw,WC301,images/items/itWC301.jpg,,MS,FS,PS,ATS,62,1400000,100,150,90,80,
+676,Viper Talon,WC121,images/items/itWC121.jpg,,MS,FS,PS,ATS,66,1500000,104,155,90,80,
+680,Inferno Claw,WC303,images/items/itWC303.jpg,,MS,FS,PS,ATS,68,1600000,106,160,90,80,
+677,Injustice Talon,WC122,images/items/itWC122.jpg,,MS,FS,PS,ASS,70,1700000,110,170,90,80,
+681,Imperial Talon,WC304,images/items/itWC304.jpg,,MS,FS,PS,ATS,72,1800000,114,180,90,80,
+682,Raging Claw,WC305,images/items/itWC305.jpg,,MS,FS,PS,ATS,73,1850000,116,185,90,80,
+678,Heretic Talon,WC123,images/items/itWC123.jpg,,MS,FS,PS,ATS,74,1900000,120,190,90,80,
+683,Avenger Talon,WC306,images/items/itWC306.jpg,,MS,FS,PS,ATS,76,1950000,122,200,90,80,
+893,Legend Talon,WC124,images/items/itWC124.jpg,,MS,FS,PS,ATS,78,2000000,126,210,90,80,
+4915,Mythology Claw,WC307,images/items/itWC307.jpg,,MS,FS,PS,ATS,80,2050000,130,220,90,80,
+11062,Diabolic Claw,WC127,images/items/itWC127.jpg,,MS,FS,PS,ATS,85,2350000,134,240,90,80,
+17167,Ferocious Claw,WC308,images/items/itWC308.jpg,,MS,FS,PS,ATS,90,2800000,138,260,90,80,
+19226,Valiant Claw,WC309,images/items/itWC309.jpg,,MS,FS,PS,ATS,95,3250000,142,280,90,80,
+20784,Osiris,WC310,images/items/itWC310.jpg,,MS,FS,PS,ASS,101,3820000,146,300,100,80,
+8992,Dagger,WD101,images/items/itWD101.jpg,,ASS,MS,FS,PS,5,70,,,,,
+8993,Ivory Dagger,WD102,images/items/itWD102.jpg,,ASS,AS,ATS,8,8,420,4,,,,
+8995,Pointy Dagger,WD103,images/items/itWD103.jpg,,ASS,FS,PS,KS,12,800,9,36,26,,
+8994,Cutlas,WD104,images/items/itWD104.jpg,,ASS,MS,AS,KS,15,1800,15,40,27,10,
+8996,Hanger,WD105,images/items/itWD105.jpg,,ASS,KS,PRS,SS,19,4600,21,40,30,14,
+8997,Neptunian Dagger,WD106,images/items/itWD106.jpg,,ASS,KS,SS,20,20,9800,28,52,40,18,
+8998,Slaughter Knife,WD107,images/items/itWD107.jpg,,ASS,FS,PS,KS,23,17000,35,59,45,22,
+8999,Saint Dagger,WD108,images/items/itWD108.jpg,,ASS,KS,ATS,PRS,27,22000,42,66,30,26,
+9000,Falchion,WD109,images/items/itWD109.jpg,,ASS,,28,30000,28,30000,49,73,55,30,
+9001,Thunder Dagger,WD110,images/items/itWD110.jpg,,ASS,ATS,SS,34,34,38000,56,82,60,34,
+9002,Abyss Dagger,WD111,images/items/itWD111.jpg,,ASS,PS,KS,37,37,41000,63,90,70,38,
+9003,Celestial Dagger,WD112,images/items/itWD112.jpg,,ASS,ATS,PRS,39,39,67000,70,115,83,42,
+9004,Solstice Dagger,WD113,images/items/itWD113.jpg,,ASS,AS,KS,41,41,87000,77,135,85,46,
+9005,Flamberge,WD114,images/items/itWD114.jpg,,ASS,KS,44,410000,44,410000,84,138,90,50,
+9006,Fortress Dagger,WD115,images/items/itWD115.jpg,,ASS,MS,ATS,46,46,818000,90,152,90,54,
+9007,Chameleon Dagger,WD116,images/items/itWD116.jpg,,ASS,BS,KS,ATS,49,1250000,96,167,90,58,
+9008,Arcana Dagger,WD117,images/items/itWD117.jpg,,ASS,MGS,SS,52,52,1400000,100,175,90,62,
+9009,Moonstone Dagger,WD118,images/items/itWD118.jpg,,ASS,KS,55,1500000,55,1500000,104,186,90,66,
+9010,Inferno Dagger,WD119,images/items/itWD119.jpg,,ASS,MS,FS,KS,57,1600000,106,192,90,70,
+9011,Plunder Dagger,WD120,images/items/itWD120.jpg,,ASS,PS,KS,59,59,1700000,110,212,90,74,
+9043,Enigma Dagger,WD121,images/items/itWD121.jpg,,ASS,KS,60,1800000,60,1800000,114,226,90,78,
+9012,Flaming Dagger,WD122,images/items/itWD122.jpg,,ASS,FS,61,1850000,61,1850000,116,234,90,82,
+9013,Devilian Dagger,WD123,images/items/itWD123.jpg,,ASS,FS,64,1900000,64,1900000,120,248,90,86,
+9014,Venomous Dagger,WD124,images/items/itWD124.jpg,,ASS,PS,SS,67,67,1950000,122,263,90,90,
+9015,Crystal Dagger,WD125,images/items/itWD125.jpg,,ASS,PS,KS,PRS,69,2000000,126,278,90,90,
+9016,Mythology Dagger,WD126,images/items/itWD126.jpg,,ASS,KS,71,2050000,71,2050000,130,294,90,90,
+11067,Ruby Dagger,WD127,images/items/itWD127.jpg,,ASS,KS,ATS,75,75,2350000,134,312,90,90,
+17172,Devious Dagger,WD308,images/items/itWD308.jpg,,ASS,KS,ATS,80,80,2800000,138,328,90,90,
+19233,Nightblade,WD309,images/items/itWD309.jpg,,ASS,KS,ATS,85,85,3250000,142,344,90,90,
+20799,Genesis Dagger,WD310,images/items/itWD310.jpg,,ASS,KS,ATS,88,88,3570000,146,360,90,100,
+20333,Battle Fist,WF101,images/items/itWF101.jpg,,BS,MS,FS,5,5,70,,,,,
+20335,Heavy Fist,WF102,images/items/itWF102.jpg,,BS,MS,8,550,8,550,2,,25,,
+20336,Scaled Fist,WF103,images/items/itWF103.jpg,,BS,MS,12,990,12,990,7,35,28,,
+20337,Peridot Fist,WF104,images/items/itWF104.jpg,,BS,MS,15,2800,15,2800,14,44,42,,
+20338,Vambrace,WF105,images/items/itWF105.jpg,,BS,MS,13,10000,13,10000,21,50,45,,
+20339,Horned Fist,WF106,images/items/itWF106.jpg,,BS,MS,PS,20,20,16000,28,54,50,,
+20340,Ptera,WF107,images/items/itWF107.jpg,,BS,MS,ASS,23,23,23000,35,60,70,,
+20341,Gloomy Fist,WF108,images/items/itWF108.jpg,,BS,MS,27,35000,27,35000,42,64,75,,
+20342,Hora Fist,WF109,images/items/itWF109.jpg,,BS,FS,28,45000,28,45000,49,66,80,,
+20343,Ivy Fist,WF110,images/items/itWF110.jpg,,BS,AS,34,50000,34,50000,56,70,85,32,
+20344,Mechanic Gauntlet,WF111,images/items/itWF111.jpg,,BS,MS,37,70000,37,70000,63,74,90,,
+20345,Cestus,WF112,images/items/itWF112.jpg,,BS,AS,SS,39,39,80000,70,80,90,32,
+20346,Bladed Knuckles,WF113,images/items/itWF113.jpg,,BS,,41,157000,41,157000,77,90,92,,
+20347,Shelled Fist,WF114,images/items/itWF114.jpg,,BS,PS,44,410000,44,410000,84,100,96,,
+20348,Grim Fingers,WF115,images/items/itWF115.jpg,,BS,,46,818000,46,818000,90,106,100,,
+20349,Beast Fist,WF116,images/items/itWF116.jpg,,BS,FS,49,1250000,49,1250000,96,112,100,,
+20350,Rune Fist,WF117,images/items/itWF117.jpg,,BS,,52,1400000,52,1400000,100,120,100,,36
+20351,Malice Fist,WF118,images/items/itWF118.jpg,,BS,,55,1600000,55,1600000,104,126,100,,
+20352,Serpens Fist,WF119,images/items/itWF119.jpg,,BS,,57,1750000,57,1750000,106,132,103,,
+20353,Maduvu,WF120,images/items/itWF120.jpg,,BS,,58,1900000,58,1900000,110,136,105,,
+20354,Noxious Fist,WF121,images/items/itWF121.jpg,,BS,,60,2000000,60,2000000,114,160,110,,
+20355,Dread Fist,WF122,images/items/itWF122.jpg,,BS,,61,2050000,61,2050000,116,168,115,,
+20356,Hydra Fist,WF123,images/items/itWF123.jpg,,BS,PS,64,2100000,64,2100000,120,180,120,,
+20357,Blinder Fist,WF124,images/items/itWF124.jpg,,BS,,67,2150000,67,2150000,122,180,125,,
+20358,Kronos Fist,WF125,images/items/itWF125.jpg,,BS,,69,2250000,69,2250000,126,190,130,,
+20359,Mythology Fist,WF126,images/items/itWF126.jpg,,BS,,71,2350000,71,2350000,130,200,135,,
+20360,Demonic Fist,WF127,images/items/itWF127.jpg,,BS,,75,2750000,75,2750000,134,220,130,,
+20366,Sonic Fist,WF308,images/items/itWF308.jpg,,BS,,80,3150000,80,3150000,138,240,132,,
+20367,Duskbreaker,WF309,images/items/itWF309.jpg,,BS,,83,3510000,83,3510000,142,255,136,,
+20800,Archaic Fist,WF310,images/items/itWF310.jpg,,BS,,90,3860000,90,3860000,146,270,140,,
+684,Club,WH101,images/items/itWH101.jpg,,MS,FS,PS,ASS,3,60,,,,,
+685,War Mace,WH102,images/items/itWH102.jpg,,MS,FS,PRS,MGS,7,460,,30,,,
+686,Pole Mace,WH103,images/items/itWH103.jpg,,MS,FS,PS,PRS,9,1400,7,36,24,,
+687,Gothic Mace,WH104,images/items/itWH104.jpg,,MS,FS,PS,PRS,13,3100,9,42,30,,
+688,War Hammer,WH105,images/items/itWH105.jpg,,MS,FS,PS,ATS,17,6000,12,50,35,,
+689,Metal Hammer,WH106,images/items/itWH106.jpg,,MS,FS,PS,23,23,11000,16,60,40,,
+690,Cross Hammer,WH107,images/items/itWH107.jpg,,,KS,ATS,PRS,24,14000,22,70,40,,34
+691,Holy Mace,WH108,images/items/itWH108.jpg,,,KS,ATS,PRS,27,19000,30,74,40,,40
+692,Star,WH109,images/items/itWH109.jpg,,MS,ASS,KS,ATS,31,26000,37,90,50,40,
+693,Maximum,WH110,images/items/itWH110.jpg,,MS,FS,PS,36,36,31000,43,110,75,,
+694,Meditation,WH111,images/items/itWH111.jpg,,,PRS,39,39000,39,39000,48,77,77,,40
+695,Rune Hammer,WH112,images/items/itWH112.jpg,,,PRS,MGS,38,38,47000,54,105,80,,40
+696,Solar,WH113,images/items/itWH113.jpg,,MS,PS,KS,ATS,41,54000,59,115,75,75,
+697,War Maul,WH114,images/items/itWH114.jpg,,MS,FS,PS,KS,47,66000,64,138,80,,
+698,Titan Maul,WH115,images/items/itWH115.jpg,,MS,FS,PS,KS,52,77000,69,145,80,,
+699,Chaos Mace,WH116,images/items/itWH116.jpg,,MS,PS,KS,45,45,150000,75,120,80,,40
+700,Brutal Hammer,WH117,images/items/itWH117.jpg,,MS,PS,BS,KS,62,250000,80,125,80,,
+701,Gladiator Hammer,WH118,images/items/itWH118.jpg,,MS,PS,KS,66,66,400000,85,130,85,,
+702,Archon Hammer,WH119,images/items/itWH119.jpg,,MS,PS,KS,SS,61,680000,90,130,86,,40
+703,Justice Hammer,WH120,images/items/itWH120.jpg,,MS,PS,ASS,KS,62,1100000,95,135,88,,40
+704,Extreme Hammer,WH121,images/items/itWH121.jpg,,MS,FS,PS,KS,64,1200000,100,141,90,,40
+705,Guardian Hammer,WH122,images/items/itWH122.jpg,,MS,FS,PS,KS,72,1300000,104,148,90,,
+708,Inferno Hammer,WH303,images/items/itWH303.jpg,,MS,FS,PS,KS,80,1400000,106,154,90,,
+706,Bane Hammer,WH123,images/items/itWH123.jpg,,MS,FS,PS,KS,88,1500000,110,160,90,,
+709,Legendary Hammer,WH304,images/items/itWH304.jpg,,MS,FS,PS,KS,96,1600000,114,168,90,,
+710,Destructive Hammer,WH305,images/items/itWH305.jpg,,MS,FS,PS,ASS,100,1650000,116,172,90,,
+707,Dragon Hammer,WH124,images/items/itWH124.jpg,,MS,FS,PS,BS,104,1700000,120,176,90,,
+711,Molten Hammer,WH306,images/items/itWH306.jpg,,MS,FS,PS,KS,90,1750000,122,184,90,75,
+898,Kronos Hammer,WH125,images/items/itWH125.jpg,,MS,FS,PS,KS,110,1800000,126,192,90,,
+4914,Mythology Hammer,WH307,images/items/itWH307.jpg,,MS,FS,PS,KS,120,1900000,130,202,90,,
+11058,Ruby Hammer,WH129,images/items/itWH129.jpg,,MS,FS,PS,ASS,130,2000000,134,212,90,,
+17170,Taurus,WH308,images/items/itWH308.jpg,,MS,FS,PS,ASS,140,2380000,138,225,90,,
+19227,Headcrusher,WH309,images/items/itWH309.jpg,,MS,FS,PS,ASS,150,2900000,142,236,90,,
+20792,Aretaic Maul,WH310,images/items/itWH310.jpg,,MS,FS,PS,ASS,160,3480000,146,247,95,,
+834,Javelin,WT101,images/items/itWT101.jpg,,ATS,PS,AS,2,2,100,,,,,
+835,War Javelin,WT102,images/items/itWT102.jpg,,ATS,FS,PS,AS,2,280,,,,,
+836,Edged Javelin,WT103,images/items/itWT103.jpg,,ATS,PS,AS,2,2,500,,,26,,
+837,Steel Javelin,WT104,images/items/itWT104.jpg,,ATS,MS,PS,AS,4,1200,6,30,26,,
+838,Double Javelin,WT105,images/items/itWT105.jpg,,ATS,PS,AS,5,5,3500,11,,37,37,
+839,Elven Javelin,WT106,images/items/itWT106.jpg,,ATS,AS,PRS,3,3,6400,16,,53,,30
+840,Fatal Javelin,WT107,images/items/itWT107.jpg,,ATS,FS,PS,AS,6,11000,22,45,54,40,
+841,Matal Javelin,WT108,images/items/itWT108.jpg,,MS,FS,PS,ATS,8,18000,30,50,55,50,
+842,Cobra Javelin,WT109,images/items/itWT109.jpg,,ATS,FS,PS,AS,5,28000,37,55,60,60,
+843,Winged Javelin,WT110,images/items/itWT110.jpg,,ATS,MS,PS,AS,6,35000,44,65,70,70,
+844,Holy Javelin,WT111,images/items/itWT111.jpg,,ATS,AS,KS,PRS,5,44000,50,55,70,55,40
+845,Throwing Trident,WT112,images/items/itWT112.jpg,,ATS,FS,PS,KS,9,52000,55,70,74,84,
+846,Wyvern Javelin,WT113,images/items/itWT113.jpg,,ATS,FS,PS,AS,8,60000,60,70,80,90,
+847,Twisted Javelin,WT114,images/items/itWT114.jpg,,ATS,FS,PS,AS,10,70000,65,70,80,100,
+848,Link Javelin,WT115,images/items/itWT115.jpg,,ATS,AS,11,77000,11,77000,70,70,80,112,
+849,Mirage Javelin,WT116,images/items/itWT116.jpg,,ATS,MS,AS,13,13,150000,75,70,84,110,40
+850,Mystic Javelin,WT117,images/items/itWT117.jpg,,ATS,MS,AS,15,15,250000,80,72,84,112,40
+851,Extreme Javelin,WT118,images/items/itWT118.jpg,,ATS,MS,AS,18,18,400000,84,74,86,117,
+852,Dragon Javelin,WT119,images/items/itWT119.jpg,,ATS,MS,AS,20,20,680000,88,75,88,124,40
+853,Spike Javelin,WT120,images/items/itWT120.jpg,,ATS,MS,AS,23,23,1100000,92,80,90,130,
+854,Legend Javelin,WT121,images/items/itWT121.jpg,,ATS,MS,AS,SS,25,1200000,96,80,90,130,
+858,Oblique Javelin,WT301,images/items/itWT301.jpg,,ATS,MS,AS,SS,28,1300000,100,80,90,140,
+855,Immortal Javelin,WT122,images/items/itWT122.jpg,,ATS,MS,AS,PRS,31,1400000,104,80,90,150,
+859,Inferno Javelin,WT303,images/items/itWT303.jpg,,ATS,MS,FS,AS,34,1500000,106,80,90,160,
+856,Heretic Javelin,WT123,images/items/itWT123.jpg,,ATS,MS,AS,ASS,37,1600000,110,80,90,170,
+860,Flame Javelin,WT304,images/items/itWT304.jpg,,ATS,MS,AS,41,41,1700000,114,100,90,180,
+861,Blessed Javelin,WT305,images/items/itWT305.jpg,,ATS,MS,AS,43,43,1750000,116,102,90,185,
+857,Salamander Javelin,WT124,images/items/itWT124.jpg,,ATS,MS,AS,45,45,1800000,120,105,90,190,
+862,Royal Javelin,WT306,images/items/itWT306.jpg,,ATS,MS,AS,KS,48,1850000,122,110,90,200,
+897,Kronos Javelin,WT125,images/items/itWT125.jpg,,ATS,MS,AS,51,51,1900000,126,115,90,210,
+9044,Mythology Javelin,WT307,images/items/itWT307.jpg,,ATS,MS,AS,ASS,54,1950000,130,120,90,220,
+11065,Chaotic Javelin,WT128,images/items/itWT128.jpg,,ATS,MS,AS,ASS,58,2080000,134,125,90,230,
+17169,Ophidian Javelin,WT308,images/items/itWT308.jpg,,ATS,MS,AS,ASS,63,2480000,138,130,90,240,
+19232,Strider Javelin,WT309,images/items/itWT309.jpg,,ATS,MS,AS,ASS,68,2880000,142,135,90,250,
+20797,Saint Javelin,WT310,images/items/itWT310.jpg,,ATS,MS,AS,ASS,73,3280000,146,140,95,260,
+9017,Skild Phantom,WN101,images/items/itWN101.jpg,,SS,,2,70,2,70,,,,,
+9018,Creak Phantom,WN102,images/items/itWN102.jpg,,SS,,3,480,3,480,6,,,,
+9019,Pin Phantom,WN103,images/items/itWN103.jpg,,SS,,5,3700,5,3700,11,,21,,53
+9020,Terte Phantom,WN104,images/items/itWN104.jpg,,SS,,7,7000,7,7000,16,,24,,58
+9021,Okute Phantom,WN105,images/items/itWN105.jpg,,SS,,8,3700,8,3700,21,,27,,64
+9022,Wankala Phantom,WN106,images/items/itWN106.jpg,,SS,,9,9500,9,9500,28,,30,,69
+9023,Paha Phantom,WN107,images/items/itWN107.jpg,,SS,,11,19000,11,19000,35,,33,,72
+9024,Piskin Phantom,WN108,images/items/itWN108.jpg,,SS,,13,22000,13,22000,42,17,35,,78
+9025,Tatanka Phantom,WN109,images/items/itWN109.jpg,,SS,,15,30000,15,30000,49,32,38,,84
+9026,Naja Phantom,WN110,images/items/itWN110.jpg,,SS,,17,38000,17,38000,56,35,47,,87
+9027,Yumni Phantom,WN111,images/items/itWN111.jpg,,SS,,20,49000,20,49000,63,46,63,,102
+9028,Siha Phantom,WN112,images/items/itWN112.jpg,,SS,,23,80000,23,80000,70,50,80,,132
+9029,Wi Phantom,WN113,images/items/itWN113.jpg,,SS,,25,195000,25,195000,77,50,86,,145
+9030,Roan Phantom,WN114,images/items/itWN114.jpg,,SS,,28,420000,28,420000,84,60,86,,164
+9031,Canku Phantom,WN115,images/items/itWN115.jpg,,SS,,33,780000,33,780000,90,65,90,,183
+9032,Owa Phantom,WN116,images/items/itWN116.jpg,,SS,,37,870000,37,870000,96,70,90,,196
+9033,Nkeez Phantom,WN117,images/items/itWN117.jpg,,SS,,41,950000,41,950000,100,70,90,,210
+9034,Pejula Phantom,WN118,images/items/itWN118.jpg,,SS,,45,1000000,45,1000000,104,70,90,,222
+9035,Luta Phantom,WN119,images/items/itWN119.jpg,,SS,,47,1100000,47,1100000,106,70,90,,230
+9036,Natanh Phantom,WN120,images/items/itWN120.jpg,,SS,,51,1250000,51,1250000,110,70,90,,235
+9042,Kahsehtha Phantom,WN121,images/items/itWN121.jpg,,SS,,39,1325000,39,1325000,114,70,90,,239
+9037,Niyaha Phantom,WN122,images/items/itWN122.jpg,,SS,,54,1150000,54,1150000,116,70,90,,244
+9038,Acala Phantom,WN123,images/items/itWN123.jpg,,SS,,57,1450000,57,1450000,120,70,90,,255
+9039,Wakinyan Phantom,WN124,images/items/itWN124.jpg,,SS,,61,1500000,61,1500000,122,70,90,,280
+9040,Wakan Phantom,WN125,images/items/itWN125.jpg,,SS,,64,1650000,64,1650000,126,70,90,,320
+9041,Mythology Phantom,WN126,images/items/itWN126.jpg,,SS,,69,1800000,69,1800000,130,70,90,,360
+11066,Chaotic Phantom,WN127,images/items/itWN127.jpg,,SS,,83,1980000,83,1980000,134,70,90,,420
+17173,Psionic Phantom,WN308,images/items/itWN308.jpg,,SS,,97,2390000,97,2390000,138,70,90,,460
+19234,Ethereal Phantom,WN309,images/items/itWN309.jpg,,SS,,111,2800000,111,2800000,142,70,90,,500
+20798,Harvester Phantom,WN310,images/items/itWN310.jpg,,SS,,125,3490000,125,3490000,146,75,95,,540
+741,Pole,WP101,images/items/itWP101.jpg,,PS,FS,ASS,ATS,4,140,,30,,,
+742,Spear,WP102,images/items/itWP102.jpg,,PS,FS,ATS,7,7,550,,32,24,,
+743,Bill,WP103,images/items/itWP103.jpg,,PS,ASS,BS,ATS,12,1100,7,36,26,,
+744,Halberd,WP104,images/items/itWP104.jpg,,PS,FS,ATS,14,14,2300,10,45,30,,
+745,Horn Scythe,WP105,images/items/itWP105.jpg,,PS,,19,5200,19,5200,14,50,32,,24
+746,Trident,WP106,images/items/itWP106.jpg,,PS,KS,ATS,21,21,10000,16,64,40,,
+747,Enriched Scythe,WP107,images/items/itWP107.jpg,,PS,MS,24,17000,24,17000,22,74,45,,
+748,Double Scythe,WP108,images/items/itWP108.jpg,,PS,MS,28,24000,28,24000,30,85,50,,
+749,Evil Scythe,WP109,images/items/itWP109.jpg,,PS,MS,31,30000,31,30000,37,90,54,,30
+750,Silver Bird,WP110,images/items/itWP110.jpg,,PS,MS,FS,ASS,33,38000,44,96,60,,
+751,Chaos Spear,WP111,images/items/itWP111.jpg,,PS,MS,ATS,30,30,45000,50,90,70,,36
+752,Titan Spear,WP112,images/items/itWP112.jpg,,PS,FS,ATS,36,36,54000,55,110,90,,
+753,Styx Scythe,WP113,images/items/itWP113.jpg,,PS,MS,38,62000,38,62000,60,125,90,,
+754,Dragon Wing,WP114,images/items/itWP114.jpg,,PS,MS,FS,PS,35,71000,65,120,90,,40
+755,Butterfly,WP115,images/items/itWP115.jpg,,PS,MS,ASS,ATS,39,79000,70,130,90,,
+756,Mystic Spear,WP116,images/items/itWP116.jpg,,PS,MS,ATS,44,44,170000,75,140,90,,
+757,Hyper Scythe,WP117,images/items/itWP117.jpg,,PS,ATS,47,280000,47,280000,80,146,90,,
+758,Oracle Spear,WP118,images/items/itWP118.jpg,,PS,MS,ATS,51,51,460000,84,152,90,,
+759,Immortal Scythe,WP119,images/items/itWP119.jpg,,PS,MS,ATS,PRS,55,750000,88,157,90,,
+760,Extreme Spear,WP120,images/items/itWP120.jpg,,PS,MS,FS,ATS,59,1300000,92,162,90,,
+761,Phoenix Spear,WP121,images/items/itWP121.jpg,,PS,MS,FS,AS,64,1400000,96,168,90,,
+765,Golden Sickle,WP301,images/items/itWP301.jpg,,PS,MS,FS,68,68,1500000,98,174,90,,
+766,Frost Scythe,WP302,images/items/itWP302.jpg,,PS,MS,FS,72,72,1600000,100,178,90,,
+762,Dreadnaught Spear,WP122,images/items/itWP122.jpg,,PS,MS,FS,76,76,1700000,104,184,90,,
+20939,Stygian Spear,WP300,images/items/itWP300.jpg,,PS,MS,FS,ATS,78,1900000,105,186,90,,
+767,Inferno Scythe,WP303,images/items/itWP303.jpg,,PS,MS,FS,80,80,1800000,106,190,90,,
+763,Reaper Scythe,WP123,images/items/itWP123.jpg,,PS,MS,FS,84,84,1900000,110,196,90,,
+768,Death Scythe,WP304,images/items/itWP304.jpg,,PS,MS,FS,ASS,88,2000000,114,202,90,,
+769,Twin Scythe,WP305,images/items/itWP305.jpg,,PS,MS,FS,90,90,2050000,116,206,90,,
+764,Dragon Scythe,WP124,images/items/itWP124.jpg,,PS,MS,FS,92,92,2100000,120,210,90,,
+770,Double Sided Spear,WP306,images/items/itWP306.jpg,,PS,FS,ATS,85,85,2200000,122,215,90,,
+899,Kronos Scythe,WP125,images/items/itWP125.jpg,,PS,MS,FS,95,95,2300000,126,220,90,,
+4912,Mythology Scythe,WP307,images/items/itWP307.jpg,,PS,MS,FS,105,105,2350000,130,230,90,,
+11060,Diabolic Scythe,WP128,images/items/itWP128.jpg,,PS,MS,FS,BS,115,2550000,134,250,90,,
+17171,Tormentor Scythe,WP308,images/items/itWP308.jpg,,PS,MS,FS,SS,130,3060000,138,265,90,,
+19229,Diamond Spear,WP309,images/items/itWP309.jpg,,PS,MS,FS,SS,140,3610000,142,280,90,,
+20793,Agony Spear,WP310,images/items/itWP310.jpg,,PS,MS,FS,SS,145,3980000,146,295,95,,
+796,Cutter,WS201,images/items/itWS201.jpg,,KS,MS,FS,ASS,2,60,,,,,
+797,Celtic Blade,WS202,images/items/itWS202.jpg,,KS,ATS,3,250,3,250,,,,,
+798,Sword Breaker,WS203,images/items/itWS203.jpg,,KS,MS,FS,ATS,4,560,,30,,,
+799,Short Sword,WS204,images/items/itWS204.jpg,,KS,MS,FS,ASS,5,1300,6,36,,,
+800,Long Sword,WS205,images/items/itWS205.jpg,,KS,MS,FS,PS,6,2600,9,40,30,,
+801,Broad Sword,WS206,images/items/itWS206.jpg,,KS,MS,FS,PS,9,3500,13,50,36,,
+802,Blade,WS207,images/items/itWS207.jpg,,KS,FS,PS,ATS,8,5400,17,62,,40,
+803,Templar Sword,WS208,images/items/itWS208.jpg,,KS,ATS,PRS,MGS,8,9300,24,40,40,,30
+804,Shield Sword,WS209,images/items/itWS209.jpg,,KS,ATS,9,13000,9,13000,30,66,52,40,
+805,Plated Sword,WS210,images/items/itWS210.jpg,,KS,MS,FS,PS,13,16000,37,76,82,,
+806,Claymore,WS211,images/items/itWS211.jpg,,KS,MS,FS,ATS,12,21000,43,80,75,50,
+807,Slayer,WS212,images/items/itWS212.jpg,,KS,MS,FS,PS,13,27000,48,90,80,56,
+808,Gigantic Sword,WS213,images/items/itWS213.jpg,,KS,MS,FS,PS,20,34000,53,115,80,,
+809,Highlander,WS214,images/items/itWS214.jpg,,KS,MS,FS,PS,26,41000,57,110,86,,
+810,Bastard Sword,WS215,images/items/itWS215.jpg,,KS,MS,FS,PS,28,48000,61,124,90,,
+811,Fatal Sword,WS216,images/items/itWS216.jpg,,KS,MS,FS,PS,36,57000,65,130,90,,
+812,Ancient Sword,WS217,images/items/itWS217.jpg,,KS,MS,30,66000,30,66000,70,100,90,,40
+813,Twin Sword,WS218,images/items/itWS218.jpg,,KS,MS,FS,PS,33,150000,75,126,90,,40
+814,Salamander Sword,WS219,images/items/itWS219.jpg,,KS,MS,FS,PS,38,260000,80,134,90,,
+815,Avanger Sword,WS220,images/items/itWS220.jpg,,KS,MS,ATS,36,36,430000,84,130,90,,
+816,Titan Sword,WS221,images/items/itWS221.jpg,,KS,MS,FS,PS,48,690000,88,144,90,,
+817,Wyvern Sword,WS222,images/items/itWS222.jpg,,KS,MS,ATS,52,52,1200000,92,152,90,,40
+818,Dragon Sword,WS223,images/items/itWS223.jpg,,KS,MS,FS,PS,58,1300000,96,168,90,,
+828,Silver Blade,WS401,images/items/itWS401.jpg,,KS,MS,FS,PS,60,1400000,98,174,90,,50
+829,Predator,WS402,images/items/itWS402.jpg,,KS,MS,FS,PS,62,1500000,100,180,90,,60
+819,Justice Sword,WS224,images/items/itWS224.jpg,,KS,MS,FS,PS,64,1600000,104,182,90,,40
+830,Inferno Sword,WS403,images/items/itWS403.jpg,,KS,MS,FS,PS,66,1700000,106,196,90,,40
+820,Extreme Sword,WS225,images/items/itWS225.jpg,,KS,MS,FS,PS,68,1800000,110,210,90,,40
+831,Imperial Sword,WS404,images/items/itWS404.jpg,,KS,MS,FS,PS,70,1900000,114,224,90,,40
+832,Emperor Sword,WS405,images/items/itWS405.jpg,,KS,MS,FS,PS,72,1950000,116,230,90,,40
+821,Mirage Sword,WS226,images/items/itWS226.jpg,,KS,MS,FS,PS,75,2000000,120,240,90,,40
+833,Relic Sword,WS406,images/items/itWS406.jpg,,KS,MS,FS,PS,72,2100000,122,258,90,,40
+895,Tirbing Sword,WS227,images/items/itWS227.jpg,,KS,MS,FS,PS,80,2200000,126,270,90,,40
+4910,Mythology Sword,WS407,images/items/itWS407.jpg,,KS,MS,FS,PS,90,2300000,130,290,90,,40
+11059,Deadly Sword,WS231,images/items/itWS231.jpg,,KS,MS,FS,PS,90,2400000,134,310,90,,40
+17166,Hellbringer Sword,WS408,images/items/itWS408.jpg,,KS,MS,FS,PS,98,2790000,138,330,90,,40
+19231,Valiant Sword,WS409,images/items/itWS409.jpg,,KS,MS,FS,PS,106,3220000,142,350,90,,40
+20796,Zephyr Sword,WS410,images/items/itWS410.jpg,,KS,MS,FS,PS,112,3720000,146,370,95,,50
+712,Wand,WM101,images/items/itWM101.jpg,,,PRS,MGS,SS,2,70,,,,,
+713,Sphere Wand,WM102,images/items/itWM102.jpg,,,PRS,MGS,3,3,480,,,,,
+714,Obi Wand,WM103,images/items/itWM103.jpg,,,PRS,MGS,SS,3,800,,,,,40
+715,Root Staff,WM104,images/items/itWM104.jpg,,,PRS,MGS,5,5,1500,7,,27,,40
+716,Poly Staff,WM105,images/items/itWM105.jpg,,,PRS,MGS,7,7,3700,11,,30,,53
+717,Elven Wand,WM106,images/items/itWM106.jpg,,,PRS,MGS,5,5,7000,16,,36,,62
+718,Dryad Wand,WM107,images/items/itWM107.jpg,,,PRS,MGS,5,5,12000,22,,36,,70
+719,Meditation Staff,WM108,images/items/itWM108.jpg,,,PRS,MGS,7,7,19000,30,35,36,,65
+720,Skull Staff,WM109,images/items/itWM109.jpg,,,PRS,MGS,7,7,27000,37,40,42,,70
+721,Mage Staff,WM110,images/items/itWM110.jpg,,,PRS,MGS,10,10,39000,44,44,47,,75
+722,Faith Wand,WM111,images/items/itWM111.jpg,,,PRS,MGS,9,9,46000,50,,60,,90
+723,Lofty Staff,WM112,images/items/itWM112.jpg,,,PRS,MGS,12,12,54000,55,,70,,100
+724,Arch Wand,WM113,images/items/itWM113.jpg,,,PRS,MGS,12,12,63000,60,,80,,115
+725,Chaos Staff,WM114,images/items/itWM114.jpg,,,PRS,MGS,16,16,72000,65,50,80,,125
+726,Rune Wand,WM115,images/items/itWM115.jpg,,,PRS,MGS,14,14,80000,70,50,84,,132
+727,Rune Staff,WM116,images/items/itWM116.jpg,,,PRS,MGS,20,20,160000,75,50,86,,140
+728,Apostle Wand,WM117,images/items/itWM117.jpg,,,PRS,MGS,20,20,260000,80,55,88,,146
+729,Relic Staff,WM118,images/items/itWM118.jpg,,,PRS,MGS,28,28,420000,84,60,88,,154
+730,Dragon Staff,WM119,images/items/itWM119.jpg,,,PRS,MGS,32,32,700000,88,65,90,,162
+731,Wyvern Wand,WM120,images/items/itWM120.jpg,,,PRS,MGS,27,27,800000,92,70,90,,170
+732,Astral Staff,WM121,images/items/itWM121.jpg,,,PRS,MGS,37,37,950000,96,70,90,,190
+736,Cribal Staff,WM301,images/items/itWM301.jpg,,,PRS,MGS,38,38,950000,100,70,90,,190
+733,Oracle Wand,WM122,images/items/itWM122.jpg,,,PRS,MGS,34,34,1000000,104,70,90,,185
+737,Blessed Staff,WM303,images/items/itWM303.jpg,,,PRS,MGS,40,40,1100000,106,70,90,,195
+734,Celestial Staff,WM123,images/items/itWM123.jpg,,,PRS,MGS,44,44,1250000,110,70,90,,205
+738,Mystic Staff,WM304,images/items/itWM304.jpg,,,PRS,MGS,48,48,1325000,114,70,90,,240
+739,Brutal Wand,WM305,images/items/itWM305.jpg,,,PRS,MGS,SS,36,1150000,116,70,90,,200
+735,Elf Staff,WM124,images/items/itWM124.jpg,,,PRS,MGS,52,52,1450000,120,70,90,,280
+740,Crystal Wand,WM306,images/items/itWM306.jpg,,,PRS,MGS,46,46,1500000,122,70,90,,270
+894,Freyja Staff,WM125,images/items/itWM125.jpg,,,PRS,MGS,60,60,1650000,126,70,90,,320
+4913,Mythology Staff,WM307,images/items/itWM307.jpg,,,PRS,MGS,70,70,1800000,130,70,90,,360
+11064,Corrupted Staff,WM129,images/items/itWM129.jpg,,,PRS,MGS,80,80,1980000,134,70,90,,420
+17164,Eternal Wand,WM308,images/items/itWM308.jpg,,,PRS,MGS,68,68,2240000,138,70,90,,430
+19228,Rapture Staff,WM309,images/items/itWM309.jpg,,,PRS,MGS,90,90,2390000,142,70,90,,480
+20794,Nurnian Staff,WM310,images/items/itWM310.jpg,,,PRS,MGS,100,100,3490000,146,80,100,,530
