@@ -1,0 +1,752 @@
+item_id,item_name,game_id,Weight,Price,Level,Strength,Talent,Agility,Spirit,Health,items,item_image_url
+627,Stone Axe,WA101,5,60,0,0,0,0,0,0,items_2,https://user.wartale.com/images/items/itWA101.jpg
+628,Steel Axe,WA102,8,420,0,0,0,0,0,0,items_2,https://user.wartale.com/images/items/itWA102.jpg
+629,Battle Axe,WA103,12,800,7,38,0,0,0,0,items_2,https://user.wartale.com/images/items/itWA103.jpg
+630,War Axe,WA104,15,1800,10,50,30,0,0,0,items_2,https://user.wartale.com/images/items/itWA104.jpg
+631,Double Sided War Axe,WA105,19,4600,16,60,36,0,0,0,items_2,https://user.wartale.com/images/items/itWA105.jpg
+632,Bat Axe,WA106,17,9800,22,75,40,0,0,0,items_2,https://user.wartale.com/images/items/itWA106.jpg
+633,Mechanic Axe,WA107,21,16000,30,86,50,0,0,0,items_2,https://user.wartale.com/images/items/itWA107.jpg
+634,Double Headed Axe,WA108,28,22000,37,100,56,0,0,0,items_2,https://user.wartale.com/images/items/itWA108.jpg
+635,Great Axe,WA109,35,26000,44,110,60,0,0,0,items_2,https://user.wartale.com/images/items/itWA109.jpg
+636,Diamond Axe,WA110,41,32000,50,118,65,0,0,0,items_2,https://user.wartale.com/images/items/itWA110.jpg
+637,Jagged Axe,WA111,42,40000,55,110,70,50,0,0,items_2,https://user.wartale.com/images/items/itWA111.jpg
+638,Cleaver,WA112,43,52000,60,134,80,0,0,0,items_2,https://user.wartale.com/images/items/itWA112.jpg
+639,Gigantic Axe,WA113,48,63000,65,145,90,0,0,0,items_2,https://user.wartale.com/images/items/itWA113.jpg
+640,Tomahawk,WA114,37,74000,70,140,90,0,38,0,items_2,https://user.wartale.com/images/items/itWA114.jpg
+641,Titan Axe,WA115,53,160000,75,155,90,0,0,0,items_2,https://user.wartale.com/images/items/itWA115.jpg
+642,Chaos Axe,WA116,48,270000,80,160,90,0,0,0,items_2,https://user.wartale.com/images/items/itWA116.jpg
+643,Ancient Axe,WA117,60,440000,84,166,90,0,0,0,items_2,https://user.wartale.com/images/items/itWA117.jpg
+644,Relic Axe,WA118,64,720000,88,160,90,0,38,0,items_2,https://user.wartale.com/images/items/itWA118.jpg
+645,Extreme Axe,WA119,69,1300000,92,172,90,0,0,0,items_2,https://user.wartale.com/images/items/itWA119.jpg
+646,Fury Axe,WA120,72,1400000,96,178,90,0,0,0,items_2,https://user.wartale.com/images/items/itWA120.jpg
+650,Shard Axe,WA301,75,1500000,98,180,90,0,0,0,items_2,https://user.wartale.com/images/items/itWA301.jpg
+651,Shadow Axe,WA302,78,1600000,100,186,90,0,0,0,items_2,https://user.wartale.com/images/items/itWA302.jpg
+647,Wyvern Axe,WA121,81,1700000,104,193,90,0,0,0,items_2,https://user.wartale.com/images/items/itWA121.jpg
+652,Inferno Axe,WA303,84,1800000,106,190,90,0,0,0,items_2,https://user.wartale.com/images/items/itWA303.jpg
+648,Zecram Axe,WA122,88,1900000,110,205,90,0,0,0,items_2,https://user.wartale.com/images/items/itWA122.jpg
+653,Blazing Axe,WA304,92,2000000,114,215,90,0,0,0,items_2,https://user.wartale.com/images/items/itWA304.jpg
+654,Demolition Axe,WA305,95,2050000,116,220,90,0,0,0,items_2,https://user.wartale.com/images/items/itWA305.jpg
+649,Dragon Axe,WA123,98,2100000,120,230,90,0,0,0,items_2,https://user.wartale.com/images/items/itWA123.jpg
+655,Gladiator Axe,WA306,92,2150000,122,245,90,0,0,0,items_2,https://user.wartale.com/images/items/itWA306.jpg
+892,Kronos Axe,WA124,103,2200000,126,260,90,0,0,0,items_2,https://user.wartale.com/images/items/itWA124.jpg
+4909,Mythology Axe,WA307,113,2250000,130,280,90,0,0,0,items_2,https://user.wartale.com/images/items/itWA307.jpg
+11056,Deadly Axe,WA128,122,2650000,134,300,90,0,0,0,items_2,https://user.wartale.com/images/items/itWA128.jpg
+17165,Zealous Axe,WA308,130,3030000,138,320,90,0,0,0,items_2,https://user.wartale.com/images/items/itWA308.jpg
+19225,Havoc Axe,WA309,136,3410000,142,340,90,0,0,0,items_2,https://user.wartale.com/images/items/itWA309.jpg
+20783,Memorial Axe,WA310,142,3920000,146,360,95,0,0,0,items_2,https://user.wartale.com/images/items/itWA310.jpg
+771,Short Bow,WS101,3,70,0,0,0,0,0,0,items_5,https://user.wartale.com/images/items/itWS101.jpg
+772,Horned Bow,WS102,5,300,0,0,0,0,0,0,items_5,https://user.wartale.com/images/items/itWS102.jpg
+773,Hand CrossBow,WS103,7,720,0,0,0,32,0,0,items_5,https://user.wartale.com/images/items/itWS103.jpg
+774,CrossBow,WS104,10,1300,6,0,24,36,0,0,items_5,https://user.wartale.com/images/items/itWS104.jpg
+775,Battle Bow,WS105,13,2800,9,0,36,42,0,0,items_5,https://user.wartale.com/images/items/itWS105.jpg
+776,Great Bow,WS106,16,4800,15,33,40,46,0,0,items_5,https://user.wartale.com/images/items/itWS106.jpg
+777,War Bow,WS107,19,9300,20,40,44,54,0,0,items_5,https://user.wartale.com/images/items/itWS107.jpg
+778,Great CrossBow,WS108,26,16000,25,46,50,60,0,0,items_5,https://user.wartale.com/images/items/itWS108.jpg
+779,Metal Hand CrossBow,WS109,22,25000,30,48,50,65,0,0,items_5,https://user.wartale.com/images/items/itWS109.jpg
+780,Double CrossBow,WS110,30,33000,36,50,55,78,0,0,items_5,https://user.wartale.com/images/items/itWS110.jpg
+781,Bone Bow,WS111,28,40000,41,56,56,82,0,0,items_5,https://user.wartale.com/images/items/itWS111.jpg
+782,Sagittarius,WS112,32,47000,47,60,60,90,0,0,items_5,https://user.wartale.com/images/items/itWS112.jpg
+783,Ancient CrossBow,WS113,37,52000,53,64,65,95,0,0,items_5,https://user.wartale.com/images/items/itWS113.jpg
+784,Titan Bow,WS114,39,58000,59,70,70,114,0,0,items_5,https://user.wartale.com/images/items/itWS114.jpg
+785,Chaos Bow,WS115,30,64000,64,60,72,130,36,0,items_5,https://user.wartale.com/images/items/itWS115.jpg
+786,Swift Bow,WS116,35,76000,70,70,76,136,40,0,items_5,https://user.wartale.com/images/items/itWS116.jpg
+787,Relic CrossBow,WS117,42,150000,75,70,80,140,40,0,items_5,https://user.wartale.com/images/items/itWS117.jpg
+788,Thunder Bow,WS118,48,260000,80,76,80,146,0,0,items_5,https://user.wartale.com/images/items/itWS118.jpg
+789,Wave Bow,WS119,52,410000,84,76,84,150,0,0,items_5,https://user.wartale.com/images/items/itWS119.jpg
+790,Grand CrossBow,WS120,56,690000,88,80,86,156,0,0,items_5,https://user.wartale.com/images/items/itWS120.jpg
+791,Mirage Bow,WS121,60,1100000,92,80,80,160,40,0,items_5,https://user.wartale.com/images/items/itWS121.jpg
+792,Dragon Bow,WS122,62,1200000,96,80,80,163,0,0,items_5,https://user.wartale.com/images/items/itWS122.jpg
+822,Hunters CrossBow,WS301,64,1300000,98,80,80,168,0,0,items_5,https://user.wartale.com/images/items/itWS301.jpg
+823,Viper Bow,WS302,66,1400000,100,80,80,172,0,0,items_5,https://user.wartale.com/images/items/itWS302.jpg
+793,Wyvern Bow,WS123,68,1500000,104,80,80,180,40,0,items_5,https://user.wartale.com/images/items/itWS123.jpg
+824,Enigma Bow,WS303,70,1600000,106,80,80,188,40,0,items_5,https://user.wartale.com/images/items/itWS303.jpg
+794,Immortal Bow,WS124,72,1700000,110,80,80,196,40,0,items_5,https://user.wartale.com/images/items/itWS124.jpg
+825,Supreme Bow,WS304,74,1800000,114,80,80,204,40,0,items_5,https://user.wartale.com/images/items/itWS304.jpg
+826,Rogue Bow,WS305,75,1850000,116,80,80,208,40,0,items_5,https://user.wartale.com/images/items/itWS305.jpg
+795,Salamander Bow,WS125,76,1900000,120,80,80,212,40,0,items_5,https://user.wartale.com/images/items/itWS125.jpg
+827,Fatal Hand CrossBow,WS306,68,1950000,122,80,80,218,40,0,items_5,https://user.wartale.com/images/items/itWS306.jpg
+896,Kronos Bow,WS126,80,2100000,126,80,80,224,40,0,items_5,https://user.wartale.com/images/items/itWS126.jpg
+4911,Mythology Bow,WS307,85,2200000,130,80,80,232,40,0,items_5,https://user.wartale.com/images/items/itWS307.jpg
+11063,Corrupted Bow,WS129,85,2200000,134,80,80,242,40,0,items_5,https://user.wartale.com/images/items/itWS129.jpg
+17168,Lucifer Bow,WS308,90,2780000,138,80,80,252,40,0,items_5,https://user.wartale.com/images/items/itWS308.jpg
+19230,Astral Hand Crossbow,WS309,95,3360000,142,80,80,262,40,0,items_5,https://user.wartale.com/images/items/itWS309.jpg
+20795,Moonshine,WS310,100,3860000,146,80,85,272,40,0,items_5,https://user.wartale.com/images/items/itWS310.jpg
+656,Eagle Claw,WC101,5,70,0,0,22,24,0,0,items_4,https://user.wartale.com/images/items/itWC101.jpg
+657,Tiger Claw,WC102,7,470,0,0,24,26,0,0,items_4,https://user.wartale.com/images/items/itWC102.jpg
+658,Griffin Claw,WC103,12,1400,7,25,26,24,0,0,items_4,https://user.wartale.com/images/items/itWC103.jpg
+659,Snake Tooth,WC104,14,3500,10,36,30,30,0,0,items_4,https://user.wartale.com/images/items/itWC104.jpg
+660,Lightning Arm,WC105,19,6400,16,44,34,34,0,0,items_4,https://user.wartale.com/images/items/itWC105.jpg
+661,Fingered Edge,WC106,16,9200,22,54,40,40,0,0,items_4,https://user.wartale.com/images/items/itWC106.jpg
+662,Hand Blade,WC107,18,13000,30,60,45,45,0,0,items_4,https://user.wartale.com/images/items/itWC107.jpg
+663,Pharaoh,WC108,17,18000,37,70,50,50,0,0,items_4,https://user.wartale.com/images/items/itWC108.jpg
+664,Brutal Claw,WC109,20,25000,44,84,55,55,0,0,items_4,https://user.wartale.com/images/items/itWC109.jpg
+665,Hydra Claw,WC110,23,32000,50,90,61,61,0,0,items_4,https://user.wartale.com/images/items/itWC110.jpg
+666,Leviathan,WC111,26,39000,55,80,65,65,40,0,items_4,https://user.wartale.com/images/items/itWC111.jpg
+667,Wyvern Claw,WC112,28,47000,60,100,76,76,0,0,items_4,https://user.wartale.com/images/items/itWC112.jpg
+668,Chaos Claw,WC113,38,58000,65,88,80,80,40,0,items_4,https://user.wartale.com/images/items/itWC113.jpg
+669,Wing Talon,WC114,34,67000,70,110,80,80,0,0,items_4,https://user.wartale.com/images/items/itWC114.jpg
+670,Doom Talon,WC115,37,150000,75,118,80,80,0,0,items_4,https://user.wartale.com/images/items/itWC115.jpg
+671,Titan Talon,WC116,50,260000,80,125,80,80,0,0,items_4,https://user.wartale.com/images/items/itWC116.jpg
+672,Salamander Talon,WC117,45,410000,84,120,84,80,0,0,items_4,https://user.wartale.com/images/items/itWC117.jpg
+673,Phoenix Talon,WC118,49,690000,88,125,86,80,0,0,items_4,https://user.wartale.com/images/items/itWC118.jpg
+674,Chimera Talon,WC119,54,1150000,92,130,88,80,38,0,items_4,https://user.wartale.com/images/items/itWC119.jpg
+675,Dragon Talon,WC120,58,1250000,96,140,90,80,0,0,items_4,https://user.wartale.com/images/items/itWC120.jpg
+679,Bloody Claw,WC301,62,1400000,100,150,90,80,0,0,items_4,https://user.wartale.com/images/items/itWC301.jpg
+676,Viper Talon,WC121,66,1500000,104,155,90,80,0,0,items_4,https://user.wartale.com/images/items/itWC121.jpg
+680,Inferno Claw,WC303,68,1600000,106,160,90,80,0,0,items_4,https://user.wartale.com/images/items/itWC303.jpg
+677,Injustice Talon,WC122,70,1700000,110,170,90,80,0,0,items_4,https://user.wartale.com/images/items/itWC122.jpg
+681,Imperial Talon,WC304,72,1800000,114,180,90,80,0,0,items_4,https://user.wartale.com/images/items/itWC304.jpg
+682,Raging Claw,WC305,73,1850000,116,185,90,80,0,0,items_4,https://user.wartale.com/images/items/itWC305.jpg
+678,Heretic Talon,WC123,74,1900000,120,190,90,80,0,0,items_4,https://user.wartale.com/images/items/itWC123.jpg
+683,Avenger Talon,WC306,76,1950000,122,200,90,80,0,0,items_4,https://user.wartale.com/images/items/itWC306.jpg
+893,Legend Talon,WC124,78,2000000,126,210,90,80,0,0,items_4,https://user.wartale.com/images/items/itWC124.jpg
+4915,Mythology Claw,WC307,80,2050000,130,220,90,80,0,0,items_4,https://user.wartale.com/images/items/itWC307.jpg
+11062,Diabolic Claw,WC127,85,2350000,134,240,90,80,0,0,items_4,https://user.wartale.com/images/items/itWC127.jpg
+17167,Ferocious Claw,WC308,90,2800000,138,260,90,80,0,0,items_4,https://user.wartale.com/images/items/itWC308.jpg
+19226,Valiant Claw,WC309,95,3250000,142,280,90,80,0,0,items_4,https://user.wartale.com/images/items/itWC309.jpg
+20784,Osiris,WC310,101,3820000,146,300,100,80,0,0,items_4,https://user.wartale.com/images/items/itWC310.jpg
+8992,Dagger,WD101,5,70,0,0,0,0,0,0,items_19,https://user.wartale.com/images/items/itWD101.jpg
+8993,Ivory Dagger,WD102,8,420,4,0,0,0,0,0,items_19,https://user.wartale.com/images/items/itWD102.jpg
+8995,Pointy Dagger,WD103,12,800,9,36,26,0,0,0,items_19,https://user.wartale.com/images/items/itWD103.jpg
+8994,Cutlas,WD104,15,1800,15,40,27,10,0,0,items_19,https://user.wartale.com/images/items/itWD104.jpg
+8996,Hanger,WD105,19,4600,21,40,30,14,0,0,items_19,https://user.wartale.com/images/items/itWD105.jpg
+8997,Neptunian Dagger,WD106,20,9800,28,52,40,18,0,0,items_19,https://user.wartale.com/images/items/itWD106.jpg
+8998,Slaughter Knife,WD107,23,17000,35,59,45,22,0,0,items_19,https://user.wartale.com/images/items/itWD107.jpg
+8999,Saint Dagger,WD108,27,22000,42,66,30,26,0,0,items_19,https://user.wartale.com/images/items/itWD108.jpg
+9000,Falchion,WD109,28,30000,49,73,55,30,0,0,items_19,https://user.wartale.com/images/items/itWD109.jpg
+9001,Thunder Dagger,WD110,34,38000,56,82,60,34,0,0,items_19,https://user.wartale.com/images/items/itWD110.jpg
+9002,Abyss Dagger,WD111,37,41000,63,90,70,38,0,0,items_19,https://user.wartale.com/images/items/itWD111.jpg
+9003,Celestial Dagger,WD112,39,67000,70,115,83,42,0,0,items_19,https://user.wartale.com/images/items/itWD112.jpg
+9004,Solstice Dagger,WD113,41,87000,77,135,85,46,0,0,items_19,https://user.wartale.com/images/items/itWD113.jpg
+9005,Flamberge,WD114,44,410000,84,138,90,50,0,0,items_19,https://user.wartale.com/images/items/itWD114.jpg
+9006,Fortress Dagger,WD115,46,818000,90,152,90,54,0,0,items_19,https://user.wartale.com/images/items/itWD115.jpg
+9007,Chameleon Dagger,WD116,49,1250000,96,167,90,58,0,0,items_19,https://user.wartale.com/images/items/itWD116.jpg
+9008,Arcana Dagger,WD117,52,1400000,100,175,90,62,0,0,items_19,https://user.wartale.com/images/items/itWD117.jpg
+9009,Moonstone Dagger,WD118,55,1500000,104,186,90,66,0,0,items_19,https://user.wartale.com/images/items/itWD118.jpg
+9010,Inferno Dagger,WD119,57,1600000,106,192,90,70,0,0,items_19,https://user.wartale.com/images/items/itWD119.jpg
+9011,Plunder Dagger,WD120,59,1700000,110,212,90,74,0,0,items_19,https://user.wartale.com/images/items/itWD120.jpg
+9043,Enigma Dagger,WD121,60,1800000,114,226,90,78,0,0,items_19,https://user.wartale.com/images/items/itWD121.jpg
+9012,Flaming Dagger,WD122,61,1850000,116,234,90,82,0,0,items_19,https://user.wartale.com/images/items/itWD122.jpg
+9013,Devilian Dagger,WD123,64,1900000,120,248,90,86,0,0,items_19,https://user.wartale.com/images/items/itWD123.jpg
+9014,Venomous Dagger,WD124,67,1950000,122,263,90,90,0,0,items_19,https://user.wartale.com/images/items/itWD124.jpg
+9015,Crystal Dagger,WD125,69,2000000,126,278,90,90,0,0,items_19,https://user.wartale.com/images/items/itWD125.jpg
+9016,Mythology Dagger,WD126,71,2050000,130,294,90,90,0,0,items_19,https://user.wartale.com/images/items/itWD126.jpg
+11067,Ruby Dagger,WD127,75,2350000,134,312,90,90,0,0,items_19,https://user.wartale.com/images/items/itWD127.jpg
+17172,Devious Dagger,WD308,80,2800000,138,328,90,90,0,0,items_19,https://user.wartale.com/images/items/itWD308.jpg
+19233,Nightblade,WD309,85,3250000,142,344,90,90,0,0,items_19,https://user.wartale.com/images/items/itWD309.jpg
+20799,Genesis Dagger,WD310,88,3570000,146,360,90,100,0,0,items_19,https://user.wartale.com/images/items/itWD310.jpg
+20333,Battle Fist,WF101,5,70,0,0,0,0,0,0,items_21,https://user.wartale.com/images/items/itWF101.jpg
+20335,Heavy Fist,WF102,8,550,2,0,25,0,0,0,items_21,https://user.wartale.com/images/items/itWF102.jpg
+20336,Scaled Fist,WF103,12,990,7,35,28,0,0,0,items_21,https://user.wartale.com/images/items/itWF103.jpg
+20337,Peridot Fist,WF104,15,2800,14,44,42,0,0,0,items_21,https://user.wartale.com/images/items/itWF104.jpg
+20338,Vambrace,WF105,13,10000,21,50,45,0,0,0,items_21,https://user.wartale.com/images/items/itWF105.jpg
+20339,Horned Fist,WF106,20,16000,28,54,50,0,0,0,items_21,https://user.wartale.com/images/items/itWF106.jpg
+20340,Ptera,WF107,23,23000,35,60,70,0,0,0,items_21,https://user.wartale.com/images/items/itWF107.jpg
+20341,Gloomy Fist,WF108,27,35000,42,64,75,0,0,0,items_21,https://user.wartale.com/images/items/itWF108.jpg
+20342,Hora Fist,WF109,28,45000,49,66,80,0,0,0,items_21,https://user.wartale.com/images/items/itWF109.jpg
+20343,Ivy Fist,WF110,34,50000,56,70,85,32,0,0,items_21,https://user.wartale.com/images/items/itWF110.jpg
+20344,Mechanic Gauntlet,WF111,37,70000,63,74,90,0,0,0,items_21,https://user.wartale.com/images/items/itWF111.jpg
+20345,Cestus,WF112,39,80000,70,80,90,32,0,0,items_21,https://user.wartale.com/images/items/itWF112.jpg
+20346,Bladed Knuckles,WF113,41,157000,77,90,92,0,0,0,items_21,https://user.wartale.com/images/items/itWF113.jpg
+20347,Shelled Fist,WF114,44,410000,84,100,96,0,0,0,items_21,https://user.wartale.com/images/items/itWF114.jpg
+20348,Grim Fingers,WF115,46,818000,90,106,100,0,0,0,items_21,https://user.wartale.com/images/items/itWF115.jpg
+20349,Beast Fist,WF116,49,1250000,96,112,100,0,0,0,items_21,https://user.wartale.com/images/items/itWF116.jpg
+20350,Rune Fist,WF117,52,1400000,100,120,100,0,36,0,items_21,https://user.wartale.com/images/items/itWF117.jpg
+20351,Malice Fist,WF118,55,1600000,104,126,100,0,0,0,items_21,https://user.wartale.com/images/items/itWF118.jpg
+20352,Serpens Fist,WF119,57,1750000,106,132,103,0,0,0,items_21,https://user.wartale.com/images/items/itWF119.jpg
+20353,Maduvu,WF120,58,1900000,110,136,105,0,0,0,items_21,https://user.wartale.com/images/items/itWF120.jpg
+20354,Noxious Fist,WF121,60,2000000,114,160,110,0,0,0,items_21,https://user.wartale.com/images/items/itWF121.jpg
+20355,Dread Fist,WF122,61,2050000,116,168,115,0,0,0,items_21,https://user.wartale.com/images/items/itWF122.jpg
+20356,Hydra Fist,WF123,64,2100000,120,180,120,0,0,0,items_21,https://user.wartale.com/images/items/itWF123.jpg
+20357,Blinder Fist,WF124,67,2150000,122,180,125,0,0,0,items_21,https://user.wartale.com/images/items/itWF124.jpg
+20358,Kronos Fist,WF125,69,2250000,126,190,130,0,0,0,items_21,https://user.wartale.com/images/items/itWF125.jpg
+20359,Mythology Fist,WF126,71,2350000,130,200,135,0,0,0,items_21,https://user.wartale.com/images/items/itWF126.jpg
+20360,Demonic Fist,WF127,75,2750000,134,220,130,0,0,0,items_21,https://user.wartale.com/images/items/itWF127.jpg
+20366,Sonic Fist,WF308,80,3150000,138,240,132,0,0,0,items_21,https://user.wartale.com/images/items/itWF308.jpg
+20367,Duskbreaker,WF309,83,3510000,142,255,136,0,0,0,items_21,https://user.wartale.com/images/items/itWF309.jpg
+20800,Archaic Fist,WF310,90,3860000,146,270,140,0,0,0,items_21,https://user.wartale.com/images/items/itWF310.jpg
+684,Club,WH101,3,60,0,0,0,0,0,0,items_7,https://user.wartale.com/images/items/itWH101.jpg
+685,War Mace,WH102,7,460,0,30,0,0,0,0,items_7,https://user.wartale.com/images/items/itWH102.jpg
+686,Pole Mace,WH103,9,1400,7,36,24,0,0,0,items_7,https://user.wartale.com/images/items/itWH103.jpg
+687,Gothic Mace,WH104,13,3100,9,42,30,0,0,0,items_7,https://user.wartale.com/images/items/itWH104.jpg
+688,War Hammer,WH105,17,6000,12,50,35,0,0,0,items_7,https://user.wartale.com/images/items/itWH105.jpg
+689,Metal Hammer,WH106,23,11000,16,60,40,0,0,0,items_7,https://user.wartale.com/images/items/itWH106.jpg
+690,Cross Hammer,WH107,24,14000,22,70,40,0,34,0,items_7,https://user.wartale.com/images/items/itWH107.jpg
+691,Holy Mace,WH108,27,19000,30,74,40,0,40,0,items_7,https://user.wartale.com/images/items/itWH108.jpg
+692,Star,WH109,31,26000,37,90,50,40,0,0,items_7,https://user.wartale.com/images/items/itWH109.jpg
+693,Maximum,WH110,36,31000,43,110,75,0,0,0,items_7,https://user.wartale.com/images/items/itWH110.jpg
+694,Meditation,WH111,39,39000,48,77,77,0,40,0,items_7,https://user.wartale.com/images/items/itWH111.jpg
+695,Rune Hammer,WH112,38,47000,54,105,80,0,40,0,items_7,https://user.wartale.com/images/items/itWH112.jpg
+696,Solar,WH113,41,54000,59,115,75,75,0,0,items_7,https://user.wartale.com/images/items/itWH113.jpg
+697,War Maul,WH114,47,66000,64,138,80,0,0,0,items_7,https://user.wartale.com/images/items/itWH114.jpg
+698,Titan Maul,WH115,52,77000,69,145,80,0,0,0,items_7,https://user.wartale.com/images/items/itWH115.jpg
+699,Chaos Mace,WH116,45,150000,75,120,80,0,40,0,items_7,https://user.wartale.com/images/items/itWH116.jpg
+700,Brutal Hammer,WH117,62,250000,80,125,80,0,0,0,items_7,https://user.wartale.com/images/items/itWH117.jpg
+701,Gladiator Hammer,WH118,66,400000,85,130,85,0,0,0,items_7,https://user.wartale.com/images/items/itWH118.jpg
+702,Archon Hammer,WH119,61,680000,90,130,86,0,40,0,items_7,https://user.wartale.com/images/items/itWH119.jpg
+703,Justice Hammer,WH120,62,1100000,95,135,88,0,40,0,items_7,https://user.wartale.com/images/items/itWH120.jpg
+704,Extreme Hammer,WH121,64,1200000,100,141,90,0,40,0,items_7,https://user.wartale.com/images/items/itWH121.jpg
+705,Guardian Hammer,WH122,72,1300000,104,148,90,0,0,0,items_7,https://user.wartale.com/images/items/itWH122.jpg
+708,Inferno Hammer,WH303,80,1400000,106,154,90,0,0,0,items_7,https://user.wartale.com/images/items/itWH303.jpg
+706,Bane Hammer,WH123,88,1500000,110,160,90,0,0,0,items_7,https://user.wartale.com/images/items/itWH123.jpg
+709,Legendary Hammer,WH304,96,1600000,114,168,90,0,0,0,items_7,https://user.wartale.com/images/items/itWH304.jpg
+710,Destructive Hammer,WH305,100,1650000,116,172,90,0,0,0,items_7,https://user.wartale.com/images/items/itWH305.jpg
+707,Dragon Hammer,WH124,104,1700000,120,176,90,0,0,0,items_7,https://user.wartale.com/images/items/itWH124.jpg
+711,Molten Hammer,WH306,90,1750000,122,184,90,75,0,0,items_7,https://user.wartale.com/images/items/itWH306.jpg
+898,Kronos Hammer,WH125,110,1800000,126,192,90,0,0,0,items_7,https://user.wartale.com/images/items/itWH125.jpg
+4914,Mythology Hammer,WH307,120,1900000,130,202,90,0,0,0,items_7,https://user.wartale.com/images/items/itWH307.jpg
+11058,Ruby Hammer,WH129,130,2000000,134,212,90,0,0,0,items_7,https://user.wartale.com/images/items/itWH129.jpg
+17170,Taurus,WH308,140,2380000,138,225,90,0,0,0,items_7,https://user.wartale.com/images/items/itWH308.jpg
+21097,Cooking Pan,XH101,10,1000000,140,0,201,0,0,0,items_7,https://user.wartale.com/images/items/itXH101.jpg
+19227,Headcrusher,WH309,150,2900000,142,236,90,0,0,0,items_7,https://user.wartale.com/images/items/itWH309.jpg
+20792,Aretaic Maul,WH310,160,3480000,146,247,95,0,0,0,items_7,https://user.wartale.com/images/items/itWH310.jpg
+21098,Golden Cooking Pan,XH102,10,1000000,160,0,1212,0,0,0,items_7,https://user.wartale.com/images/items/itXH102.jpg
+834,Javelin,WT101,2,100,0,0,0,0,0,0,items_6,https://user.wartale.com/images/items/itWT101.jpg
+835,War Javelin,WT102,2,280,0,0,0,0,0,0,items_6,https://user.wartale.com/images/items/itWT102.jpg
+836,Edged Javelin,WT103,2,500,0,0,26,0,0,0,items_6,https://user.wartale.com/images/items/itWT103.jpg
+837,Steel Javelin,WT104,4,1200,6,30,26,0,0,0,items_6,https://user.wartale.com/images/items/itWT104.jpg
+838,Double Javelin,WT105,5,3500,11,0,37,37,0,0,items_6,https://user.wartale.com/images/items/itWT105.jpg
+839,Elven Javelin,WT106,3,6400,16,0,53,0,30,0,items_6,https://user.wartale.com/images/items/itWT106.jpg
+840,Fatal Javelin,WT107,6,11000,22,45,54,40,0,0,items_6,https://user.wartale.com/images/items/itWT107.jpg
+841,Matal Javelin,WT108,8,18000,30,50,55,50,0,0,items_6,https://user.wartale.com/images/items/itWT108.jpg
+842,Cobra Javelin,WT109,5,28000,37,55,60,60,0,0,items_6,https://user.wartale.com/images/items/itWT109.jpg
+843,Winged Javelin,WT110,6,35000,44,65,70,70,0,0,items_6,https://user.wartale.com/images/items/itWT110.jpg
+844,Holy Javelin,WT111,5,44000,50,55,70,55,40,0,items_6,https://user.wartale.com/images/items/itWT111.jpg
+845,Throwing Trident,WT112,9,52000,55,70,74,84,0,0,items_6,https://user.wartale.com/images/items/itWT112.jpg
+846,Wyvern Javelin,WT113,8,60000,60,70,80,90,0,0,items_6,https://user.wartale.com/images/items/itWT113.jpg
+847,Twisted Javelin,WT114,10,70000,65,70,80,100,0,0,items_6,https://user.wartale.com/images/items/itWT114.jpg
+848,Link Javelin,WT115,11,77000,70,70,80,112,0,0,items_6,https://user.wartale.com/images/items/itWT115.jpg
+849,Mirage Javelin,WT116,13,150000,75,70,84,110,40,0,items_6,https://user.wartale.com/images/items/itWT116.jpg
+850,Mystic Javelin,WT117,15,250000,80,72,84,112,40,0,items_6,https://user.wartale.com/images/items/itWT117.jpg
+851,Extreme Javelin,WT118,18,400000,84,74,86,117,0,0,items_6,https://user.wartale.com/images/items/itWT118.jpg
+852,Dragon Javelin,WT119,20,680000,88,75,88,124,40,0,items_6,https://user.wartale.com/images/items/itWT119.jpg
+853,Spike Javelin,WT120,23,1100000,92,80,90,130,0,0,items_6,https://user.wartale.com/images/items/itWT120.jpg
+854,Legend Javelin,WT121,25,1200000,96,80,90,130,0,0,items_6,https://user.wartale.com/images/items/itWT121.jpg
+858,Oblique Javelin,WT301,28,1300000,100,80,90,140,0,0,items_6,https://user.wartale.com/images/items/itWT301.jpg
+855,Immortal Javelin,WT122,31,1400000,104,80,90,150,0,0,items_6,https://user.wartale.com/images/items/itWT122.jpg
+859,Inferno Javelin,WT303,34,1500000,106,80,90,160,0,0,items_6,https://user.wartale.com/images/items/itWT303.jpg
+856,Heretic Javelin,WT123,37,1600000,110,80,90,170,0,0,items_6,https://user.wartale.com/images/items/itWT123.jpg
+860,Flame Javelin,WT304,41,1700000,114,100,90,180,0,0,items_6,https://user.wartale.com/images/items/itWT304.jpg
+861,Blessed Javelin,WT305,43,1750000,116,102,90,185,0,0,items_6,https://user.wartale.com/images/items/itWT305.jpg
+857,Salamander Javelin,WT124,45,1800000,120,105,90,190,0,0,items_6,https://user.wartale.com/images/items/itWT124.jpg
+862,Royal Javelin,WT306,48,1850000,122,110,90,200,0,0,items_6,https://user.wartale.com/images/items/itWT306.jpg
+897,Kronos Javelin,WT125,51,1900000,126,115,90,210,0,0,items_6,https://user.wartale.com/images/items/itWT125.jpg
+9044,Mythology Javelin,WT307,54,1950000,130,120,90,220,0,0,items_6,https://user.wartale.com/images/items/itWT307.jpg
+11065,Chaotic Javelin,WT128,58,2080000,134,125,90,230,0,0,items_6,https://user.wartale.com/images/items/itWT128.jpg
+17169,Ophidian Javelin,WT308,63,2480000,138,130,90,240,0,0,items_6,https://user.wartale.com/images/items/itWT308.jpg
+19232,Strider Javelin,WT309,68,2880000,142,135,90,250,0,0,items_6,https://user.wartale.com/images/items/itWT309.jpg
+20797,Saint Javelin,WT310,73,3280000,146,140,95,260,0,0,items_6,https://user.wartale.com/images/items/itWT310.jpg
+9017,Skild Phantom,WN101,2,70,0,0,0,0,0,0,items_20,https://user.wartale.com/images/items/itWN101.jpg
+9018,Creak Phantom,WN102,3,480,6,0,0,0,0,0,items_20,https://user.wartale.com/images/items/itWN102.jpg
+9019,Pin Phantom,WN103,5,3700,11,0,21,0,53,0,items_20,https://user.wartale.com/images/items/itWN103.jpg
+9020,Terte Phantom,WN104,7,7000,16,0,24,0,58,0,items_20,https://user.wartale.com/images/items/itWN104.jpg
+9021,Okute Phantom,WN105,8,3700,21,0,27,0,64,0,items_20,https://user.wartale.com/images/items/itWN105.jpg
+9022,Wankala Phantom,WN106,9,9500,28,0,30,0,69,0,items_20,https://user.wartale.com/images/items/itWN106.jpg
+9023,Paha Phantom,WN107,11,19000,35,0,33,0,72,0,items_20,https://user.wartale.com/images/items/itWN107.jpg
+9024,Piskin Phantom,WN108,13,22000,42,17,35,0,78,0,items_20,https://user.wartale.com/images/items/itWN108.jpg
+9025,Tatanka Phantom,WN109,15,30000,49,32,38,0,84,0,items_20,https://user.wartale.com/images/items/itWN109.jpg
+9026,Naja Phantom,WN110,17,38000,56,35,47,0,87,0,items_20,https://user.wartale.com/images/items/itWN110.jpg
+9027,Yumni Phantom,WN111,20,49000,63,46,63,0,102,0,items_20,https://user.wartale.com/images/items/itWN111.jpg
+9028,Siha Phantom,WN112,23,80000,70,50,80,0,132,0,items_20,https://user.wartale.com/images/items/itWN112.jpg
+9029,Wi Phantom,WN113,25,195000,77,50,86,0,145,0,items_20,https://user.wartale.com/images/items/itWN113.jpg
+9030,Roan Phantom,WN114,28,420000,84,60,86,0,164,0,items_20,https://user.wartale.com/images/items/itWN114.jpg
+9031,Canku Phantom,WN115,33,780000,90,65,90,0,183,0,items_20,https://user.wartale.com/images/items/itWN115.jpg
+9032,Owa Phantom,WN116,37,870000,96,70,90,0,196,0,items_20,https://user.wartale.com/images/items/itWN116.jpg
+9033,Nkeez Phantom,WN117,41,950000,100,70,90,0,210,0,items_20,https://user.wartale.com/images/items/itWN117.jpg
+9034,Pejula Phantom,WN118,45,1000000,104,70,90,0,222,0,items_20,https://user.wartale.com/images/items/itWN118.jpg
+9035,Luta Phantom,WN119,47,1100000,106,70,90,0,230,0,items_20,https://user.wartale.com/images/items/itWN119.jpg
+9036,Natanh Phantom,WN120,51,1250000,110,70,90,0,235,0,items_20,https://user.wartale.com/images/items/itWN120.jpg
+9042,Kahsehtha Phantom,WN121,39,1325000,114,70,90,0,239,0,items_20,https://user.wartale.com/images/items/itWN121.jpg
+9037,Niyaha Phantom,WN122,54,1150000,116,70,90,0,244,0,items_20,https://user.wartale.com/images/items/itWN122.jpg
+9038,Acala Phantom,WN123,57,1450000,120,70,90,0,255,0,items_20,https://user.wartale.com/images/items/itWN123.jpg
+9039,Wakinyan Phantom,WN124,61,1500000,122,70,90,0,280,0,items_20,https://user.wartale.com/images/items/itWN124.jpg
+9040,Wakan Phantom,WN125,64,1650000,126,70,90,0,320,0,items_20,https://user.wartale.com/images/items/itWN125.jpg
+9041,Mythology Phantom,WN126,69,1800000,130,70,90,0,360,0,items_20,https://user.wartale.com/images/items/itWN126.jpg
+11066,Chaotic Phantom,WN127,83,1980000,134,70,90,0,420,0,items_20,https://user.wartale.com/images/items/itWN127.jpg
+17173,Psionic Phantom,WN308,97,2390000,138,70,90,0,460,0,items_20,https://user.wartale.com/images/items/itWN308.jpg
+19234,Ethereal Phantom,WN309,111,2800000,142,70,90,0,500,0,items_20,https://user.wartale.com/images/items/itWN309.jpg
+20798,Harvester Phantom,WN310,125,3490000,146,75,95,0,540,0,items_20,https://user.wartale.com/images/items/itWN310.jpg
+741,Pole,WP101,4,140,0,30,0,0,0,0,items_8,https://user.wartale.com/images/items/itWP101.jpg
+742,Spear,WP102,7,550,0,32,24,0,0,0,items_8,https://user.wartale.com/images/items/itWP102.jpg
+743,Bill,WP103,12,1100,7,36,26,0,0,0,items_8,https://user.wartale.com/images/items/itWP103.jpg
+744,Halberd,WP104,14,2300,10,45,30,0,0,0,items_8,https://user.wartale.com/images/items/itWP104.jpg
+745,Horn Scythe,WP105,19,5200,14,50,32,0,24,0,items_8,https://user.wartale.com/images/items/itWP105.jpg
+746,Trident,WP106,21,10000,16,64,40,0,0,0,items_8,https://user.wartale.com/images/items/itWP106.jpg
+747,Enriched Scythe,WP107,24,17000,22,74,45,0,0,0,items_8,https://user.wartale.com/images/items/itWP107.jpg
+748,Double Scythe,WP108,28,24000,30,85,50,0,0,0,items_8,https://user.wartale.com/images/items/itWP108.jpg
+749,Evil Scythe,WP109,31,30000,37,90,54,0,30,0,items_8,https://user.wartale.com/images/items/itWP109.jpg
+750,Silver Bird,WP110,33,38000,44,96,60,0,0,0,items_8,https://user.wartale.com/images/items/itWP110.jpg
+751,Chaos Spear,WP111,30,45000,50,90,70,0,36,0,items_8,https://user.wartale.com/images/items/itWP111.jpg
+752,Titan Spear,WP112,36,54000,55,110,90,0,0,0,items_8,https://user.wartale.com/images/items/itWP112.jpg
+753,Styx Scythe,WP113,38,62000,60,125,90,0,0,0,items_8,https://user.wartale.com/images/items/itWP113.jpg
+754,Dragon Wing,WP114,35,71000,65,120,90,0,40,0,items_8,https://user.wartale.com/images/items/itWP114.jpg
+755,Butterfly,WP115,39,79000,70,130,90,0,0,0,items_8,https://user.wartale.com/images/items/itWP115.jpg
+756,Mystic Spear,WP116,44,170000,75,140,90,0,0,0,items_8,https://user.wartale.com/images/items/itWP116.jpg
+757,Hyper Scythe,WP117,47,280000,80,146,90,0,0,0,items_8,https://user.wartale.com/images/items/itWP117.jpg
+758,Oracle Spear,WP118,51,460000,84,152,90,0,0,0,items_8,https://user.wartale.com/images/items/itWP118.jpg
+759,Immortal Scythe,WP119,55,750000,88,157,90,0,0,0,items_8,https://user.wartale.com/images/items/itWP119.jpg
+760,Extreme Spear,WP120,59,1300000,92,162,90,0,0,0,items_8,https://user.wartale.com/images/items/itWP120.jpg
+761,Phoenix Spear,WP121,64,1400000,96,168,90,0,0,0,items_8,https://user.wartale.com/images/items/itWP121.jpg
+765,Golden Sickle,WP301,68,1500000,98,174,90,0,0,0,items_8,https://user.wartale.com/images/items/itWP301.jpg
+766,Frost Scythe,WP302,72,1600000,100,178,90,0,0,0,items_8,https://user.wartale.com/images/items/itWP302.jpg
+762,Dreadnaught Spear,WP122,76,1700000,104,184,90,0,0,0,items_8,https://user.wartale.com/images/items/itWP122.jpg
+20939,Stygian Spear,WP300,78,1900000,105,186,90,0,0,0,items_8,https://user.wartale.com/images/items/itWP300.jpg
+767,Inferno Scythe,WP303,80,1800000,106,190,90,0,0,0,items_8,https://user.wartale.com/images/items/itWP303.jpg
+763,Reaper Scythe,WP123,84,1900000,110,196,90,0,0,0,items_8,https://user.wartale.com/images/items/itWP123.jpg
+768,Death Scythe,WP304,88,2000000,114,202,90,0,0,0,items_8,https://user.wartale.com/images/items/itWP304.jpg
+769,Twin Scythe,WP305,90,2050000,116,206,90,0,0,0,items_8,https://user.wartale.com/images/items/itWP305.jpg
+764,Dragon Scythe,WP124,92,2100000,120,210,90,0,0,0,items_8,https://user.wartale.com/images/items/itWP124.jpg
+770,Double Sided Spear,WP306,85,2200000,122,215,90,0,0,0,items_8,https://user.wartale.com/images/items/itWP306.jpg
+899,Kronos Scythe,WP125,95,2300000,126,220,90,0,0,0,items_8,https://user.wartale.com/images/items/itWP125.jpg
+4912,Mythology Scythe,WP307,105,2350000,130,230,90,0,0,0,items_8,https://user.wartale.com/images/items/itWP307.jpg
+11060,Diabolic Scythe,WP128,115,2550000,134,250,90,0,0,0,items_8,https://user.wartale.com/images/items/itWP128.jpg
+17171,Tormentor Scythe,WP308,130,3060000,138,265,90,0,0,0,items_8,https://user.wartale.com/images/items/itWP308.jpg
+19229,Diamond Spear,WP309,140,3610000,142,280,90,0,0,0,items_8,https://user.wartale.com/images/items/itWP309.jpg
+20793,Agony Spear,WP310,145,3980000,146,295,95,0,0,0,items_8,https://user.wartale.com/images/items/itWP310.jpg
+796,Cutter,WS201,2,60,0,0,0,0,0,0,items_3,https://user.wartale.com/images/items/itWS201.jpg
+797,Celtic Blade,WS202,3,250,0,0,0,0,0,0,items_3,https://user.wartale.com/images/items/itWS202.jpg
+798,Sword Breaker,WS203,4,560,0,30,0,0,0,0,items_3,https://user.wartale.com/images/items/itWS203.jpg
+799,Short Sword,WS204,5,1300,6,36,0,0,0,0,items_3,https://user.wartale.com/images/items/itWS204.jpg
+800,Long Sword,WS205,6,2600,9,40,30,0,0,0,items_3,https://user.wartale.com/images/items/itWS205.jpg
+801,Broad Sword,WS206,9,3500,13,50,36,0,0,0,items_3,https://user.wartale.com/images/items/itWS206.jpg
+802,Blade,WS207,8,5400,17,62,0,40,0,0,items_3,https://user.wartale.com/images/items/itWS207.jpg
+803,Templar Sword,WS208,8,9300,24,40,40,0,30,0,items_3,https://user.wartale.com/images/items/itWS208.jpg
+804,Shield Sword,WS209,9,13000,30,66,52,40,0,0,items_3,https://user.wartale.com/images/items/itWS209.jpg
+805,Plated Sword,WS210,13,16000,37,76,82,0,0,0,items_3,https://user.wartale.com/images/items/itWS210.jpg
+806,Claymore,WS211,12,21000,43,80,75,50,0,0,items_3,https://user.wartale.com/images/items/itWS211.jpg
+807,Slayer,WS212,13,27000,48,90,80,56,0,0,items_3,https://user.wartale.com/images/items/itWS212.jpg
+808,Gigantic Sword,WS213,20,34000,53,115,80,0,0,0,items_3,https://user.wartale.com/images/items/itWS213.jpg
+809,Highlander,WS214,26,41000,57,110,86,0,0,0,items_3,https://user.wartale.com/images/items/itWS214.jpg
+810,Bastard Sword,WS215,28,48000,61,124,90,0,0,0,items_3,https://user.wartale.com/images/items/itWS215.jpg
+811,Fatal Sword,WS216,36,57000,65,130,90,0,0,0,items_3,https://user.wartale.com/images/items/itWS216.jpg
+812,Ancient Sword,WS217,30,66000,70,100,90,0,40,0,items_3,https://user.wartale.com/images/items/itWS217.jpg
+813,Twin Sword,WS218,33,150000,75,126,90,0,40,0,items_3,https://user.wartale.com/images/items/itWS218.jpg
+814,Salamander Sword,WS219,38,260000,80,134,90,0,0,0,items_3,https://user.wartale.com/images/items/itWS219.jpg
+815,Avanger Sword,WS220,36,430000,84,130,90,0,0,0,items_3,https://user.wartale.com/images/items/itWS220.jpg
+816,Titan Sword,WS221,48,690000,88,144,90,0,0,0,items_3,https://user.wartale.com/images/items/itWS221.jpg
+817,Wyvern Sword,WS222,52,1200000,92,152,90,0,40,0,items_3,https://user.wartale.com/images/items/itWS222.jpg
+818,Dragon Sword,WS223,58,1300000,96,168,90,0,0,0,items_3,https://user.wartale.com/images/items/itWS223.jpg
+828,Silver Blade,WS401,60,1400000,98,174,90,0,50,0,items_3,https://user.wartale.com/images/items/itWS401.jpg
+829,Predator,WS402,62,1500000,100,180,90,0,60,0,items_3,https://user.wartale.com/images/items/itWS402.jpg
+819,Justice Sword,WS224,64,1600000,104,182,90,0,40,0,items_3,https://user.wartale.com/images/items/itWS224.jpg
+830,Inferno Sword,WS403,66,1700000,106,196,90,0,40,0,items_3,https://user.wartale.com/images/items/itWS403.jpg
+820,Extreme Sword,WS225,68,1800000,110,210,90,0,40,0,items_3,https://user.wartale.com/images/items/itWS225.jpg
+831,Imperial Sword,WS404,70,1900000,114,224,90,0,40,0,items_3,https://user.wartale.com/images/items/itWS404.jpg
+832,Emperor Sword,WS405,72,1950000,116,230,90,0,40,0,items_3,https://user.wartale.com/images/items/itWS405.jpg
+821,Mirage Sword,WS226,75,2000000,120,240,90,0,40,0,items_3,https://user.wartale.com/images/items/itWS226.jpg
+21096,Rolling Pin,XS101,100,1000000,120,0,94,0,0,0,items_3,https://user.wartale.com/images/items/itXS101.jpg
+833,Relic Sword,WS406,72,2100000,122,258,90,0,40,0,items_3,https://user.wartale.com/images/items/itWS406.jpg
+895,Tirbing Sword,WS227,80,2200000,126,270,90,0,40,0,items_3,https://user.wartale.com/images/items/itWS227.jpg
+4910,Mythology Sword,WS407,90,2300000,130,290,90,0,40,0,items_3,https://user.wartale.com/images/items/itWS407.jpg
+11059,Deadly Sword,WS231,90,2400000,134,310,90,0,40,0,items_3,https://user.wartale.com/images/items/itWS231.jpg
+17166,Hellbringer Sword,WS408,98,2790000,138,330,90,0,40,0,items_3,https://user.wartale.com/images/items/itWS408.jpg
+19231,Valiant Sword,WS409,106,3220000,142,350,90,0,40,0,items_3,https://user.wartale.com/images/items/itWS409.jpg
+20796,Zephyr Sword,WS410,112,3720000,146,370,95,0,50,0,items_3,https://user.wartale.com/images/items/itWS410.jpg
+712,Wand,WM101,2,70,0,0,0,0,0,0,items_1,https://user.wartale.com/images/items/itWM101.jpg
+713,Sphere Wand,WM102,3,480,0,0,0,0,0,0,items_1,https://user.wartale.com/images/items/itWM102.jpg
+714,Obi Wand,WM103,3,800,0,0,0,0,40,0,items_1,https://user.wartale.com/images/items/itWM103.jpg
+715,Root Staff,WM104,5,1500,7,0,27,0,40,0,items_1,https://user.wartale.com/images/items/itWM104.jpg
+716,Poly Staff,WM105,7,3700,11,0,30,0,53,0,items_1,https://user.wartale.com/images/items/itWM105.jpg
+717,Elven Wand,WM106,5,7000,16,0,36,0,62,0,items_1,https://user.wartale.com/images/items/itWM106.jpg
+718,Dryad Wand,WM107,5,12000,22,0,36,0,70,0,items_1,https://user.wartale.com/images/items/itWM107.jpg
+719,Meditation Staff,WM108,7,19000,30,35,36,0,65,0,items_1,https://user.wartale.com/images/items/itWM108.jpg
+720,Skull Staff,WM109,7,27000,37,40,42,0,70,0,items_1,https://user.wartale.com/images/items/itWM109.jpg
+721,Mage Staff,WM110,10,39000,44,44,47,0,75,0,items_1,https://user.wartale.com/images/items/itWM110.jpg
+722,Faith Wand,WM111,9,46000,50,0,60,0,90,0,items_1,https://user.wartale.com/images/items/itWM111.jpg
+723,Lofty Staff,WM112,12,54000,55,0,70,0,100,0,items_1,https://user.wartale.com/images/items/itWM112.jpg
+724,Arch Wand,WM113,12,63000,60,0,80,0,115,0,items_1,https://user.wartale.com/images/items/itWM113.jpg
+725,Chaos Staff,WM114,16,72000,65,50,80,0,125,0,items_1,https://user.wartale.com/images/items/itWM114.jpg
+726,Rune Wand,WM115,14,80000,70,50,84,0,132,0,items_1,https://user.wartale.com/images/items/itWM115.jpg
+727,Rune Staff,WM116,20,160000,75,50,86,0,140,0,items_1,https://user.wartale.com/images/items/itWM116.jpg
+728,Apostle Wand,WM117,20,260000,80,55,88,0,146,0,items_1,https://user.wartale.com/images/items/itWM117.jpg
+729,Relic Staff,WM118,28,420000,84,60,88,0,154,0,items_1,https://user.wartale.com/images/items/itWM118.jpg
+730,Dragon Staff,WM119,32,700000,88,65,90,0,162,0,items_1,https://user.wartale.com/images/items/itWM119.jpg
+731,Wyvern Wand,WM120,27,800000,92,70,90,0,170,0,items_1,https://user.wartale.com/images/items/itWM120.jpg
+732,Astral Staff,WM121,37,950000,96,70,90,0,190,0,items_1,https://user.wartale.com/images/items/itWM121.jpg
+736,Cribal Staff,WM301,38,950000,100,70,90,0,190,0,items_1,https://user.wartale.com/images/items/itWM301.jpg
+733,Oracle Wand,WM122,34,1000000,104,70,90,0,185,0,items_1,https://user.wartale.com/images/items/itWM122.jpg
+21095,Soup Ladle,XM101,10,1000000,105,0,66,0,0,0,items_1,https://user.wartale.com/images/items/itXM101.jpg
+737,Blessed Staff,WM303,40,1100000,106,70,90,0,195,0,items_1,https://user.wartale.com/images/items/itWM303.jpg
+734,Celestial Staff,WM123,44,1250000,110,70,90,0,205,0,items_1,https://user.wartale.com/images/items/itWM123.jpg
+738,Mystic Staff,WM304,48,1325000,114,70,90,0,240,0,items_1,https://user.wartale.com/images/items/itWM304.jpg
+739,Brutal Wand,WM305,36,1150000,116,70,90,0,200,0,items_1,https://user.wartale.com/images/items/itWM305.jpg
+735,Elf Staff,WM124,52,1450000,120,70,90,0,280,0,items_1,https://user.wartale.com/images/items/itWM124.jpg
+740,Crystal Wand,WM306,46,1500000,122,70,90,0,270,0,items_1,https://user.wartale.com/images/items/itWM306.jpg
+894,Freyja Staff,WM125,60,1650000,126,70,90,0,320,0,items_1,https://user.wartale.com/images/items/itWM125.jpg
+4913,Mythology Staff,WM307,70,1800000,130,70,90,0,360,0,items_1,https://user.wartale.com/images/items/itWM307.jpg
+11064,Corrupted Staff,WM129,80,1980000,134,70,90,0,420,0,items_1,https://user.wartale.com/images/items/itWM129.jpg
+17164,Eternal Wand,WM308,68,2240000,138,70,90,0,430,0,items_1,https://user.wartale.com/images/items/itWM308.jpg
+19228,Rapture Staff,WM309,90,2390000,142,70,90,0,480,0,items_1,https://user.wartale.com/images/items/itWM309.jpg
+20794,Nurnian Staff,WM310,100,3490000,146,80,100,0,530,0,items_1,https://user.wartale.com/images/items/itWM310.jpg
+83,Battle Suit,DA102,10,400,0,0,0,0,0,0,items_10,https://user.wartale.com/images/items/itDA102.jpg
+84,Leather Armor,DA103,17,1200,6,0,0,0,0,0,items_10,https://user.wartale.com/images/items/itDA103.jpg
+85,Brigandine,DA104,15,2500,10,52,30,0,0,0,items_10,https://user.wartale.com/images/items/itDA104.jpg
+86,Steel Armor,DA105,22,5000,17,60,36,0,0,0,items_10,https://user.wartale.com/images/items/itDA105.jpg
+87,Rounded Armor,DA106,33,12000,22,66,44,0,0,0,items_10,https://user.wartale.com/images/items/itDA106.jpg
+88,Breast Plate,DA107,38,20000,29,74,48,0,0,0,items_10,https://user.wartale.com/images/items/itDA107.jpg
+89,Ring Armor,DA108,47,30000,35,80,54,0,0,0,items_10,https://user.wartale.com/images/items/itDA108.jpg
+90,Scale Armor,DA109,56,39000,39,90,60,0,0,0,items_10,https://user.wartale.com/images/items/itDA109.jpg
+91,Synthetic Armor,DA110,64,47000,43,102,62,0,0,0,items_10,https://user.wartale.com/images/items/itDA110.jpg
+92,Full Plate Armor,DA111,73,54000,47,110,65,0,0,0,items_10,https://user.wartale.com/images/items/itDA111.jpg
+93,Full Metal Armor,DA112,75,62000,51,120,70,0,0,0,items_10,https://user.wartale.com/images/items/itDA112.jpg
+94,Supreme Armor,DA113,78,70000,55,135,70,0,0,0,items_10,https://user.wartale.com/images/items/itDA113.jpg
+95,Spiked Armor,DA114,82,77000,60,145,70,0,0,0,items_10,https://user.wartale.com/images/items/itDA114.jpg
+96,Titan Armor,DA115,96,84000,65,160,70,0,0,0,items_10,https://user.wartale.com/images/items/itDA115.jpg
+97,Extreme Armor,DA116,94,92000,70,166,80,0,0,0,items_10,https://user.wartale.com/images/items/itDA116.jpg
+98,Ancient Armor,DA117,90,150000,75,172,80,0,0,0,items_10,https://user.wartale.com/images/items/itDA117.jpg
+99,Minotaur Armor,DA118,108,220000,80,180,80,0,0,0,items_10,https://user.wartale.com/images/items/itDA118.jpg
+100,Doom Armor,DA119,113,320000,85,184,80,0,0,0,items_10,https://user.wartale.com/images/items/itDA119.jpg
+101,Salamander Armor,DA120,117,480000,90,188,85,0,0,0,items_10,https://user.wartale.com/images/items/itDA120.jpg
+102,Wyvern Armor,DA121,122,700000,95,192,90,0,0,0,items_10,https://user.wartale.com/images/items/itDA121.jpg
+103,Dragon Armor,DA122,128,960000,100,208,90,0,0,0,items_10,https://user.wartale.com/images/items/itDA122.jpg
+5908,Phantom Armor,DA126,100,2000000,100,200,90,0,90,0,items_10,https://user.wartale.com/images/items/itDA126.jpg
+104,Phoenix Armor,DA123,134,1220000,104,216,90,0,0,0,items_10,https://user.wartale.com/images/items/itDA123.jpg
+196,Inferno Armor,DA303,140,1480000,106,224,90,0,0,0,items_10,https://user.wartale.com/images/items/itDA303.jpg
+105,Frenzy Armor,DA124,146,1740000,110,232,90,0,0,0,items_10,https://user.wartale.com/images/items/itDA124.jpg
+197,Hades Armor,DA304,152,2000000,114,240,90,0,0,0,items_10,https://user.wartale.com/images/items/itDA304.jpg
+198,Mythril Armor,DA305,156,2140000,116,244,90,0,0,0,items_10,https://user.wartale.com/images/items/itDA305.jpg
+106,Highlander Armor,DA125,160,2280000,120,248,90,0,0,0,items_10,https://user.wartale.com/images/items/itDA125.jpg
+199,Imperial Armor,DA306,168,2420000,124,256,90,0,0,0,items_10,https://user.wartale.com/images/items/itDA306.jpg
+107,Kronos Armor,DA127,176,2560000,128,270,90,0,0,0,items_10,https://user.wartale.com/images/items/itDA127.jpg
+200,Stygian Armor,DA307,184,2700000,132,284,90,0,0,0,items_10,https://user.wartale.com/images/items/itDA307.jpg
+11051,Royal Armor,DA129,192,2860000,136,294,90,0,0,0,items_10,https://user.wartale.com/images/items/itDA129.jpg
+15140,Quantum Armor,DA308,200,3080000,140,308,90,0,0,0,items_10,https://user.wartale.com/images/items/itDA308.jpg
+19218,Malefic Armor,DA309,208,3200000,144,322,100,0,0,0,items_10,https://user.wartale.com/images/items/itDA309.jpg
+20790,Epsilon Armor,DA310,220,3980000,148,336,105,0,0,0,items_10,https://user.wartale.com/images/items/itDA310.jpg
+141,Robe,DA202,8,400,0,0,0,0,0,0,items_9,https://user.wartale.com/images/items/itDA202.jpg
+142,Enhanced Robe,DA203,10,1200,6,0,0,0,40,0,items_9,https://user.wartale.com/images/items/itDA203.jpg
+143,Battle Robe,DA204,14,2500,11,0,20,0,50,0,items_9,https://user.wartale.com/images/items/itDA204.jpg
+144,Elven Robe,DA205,16,5000,17,0,30,0,60,0,items_9,https://user.wartale.com/images/items/itDA205.jpg
+145,Dryad Robe,DA206,18,12000,23,0,35,0,70,0,items_9,https://user.wartale.com/images/items/itDA206.jpg
+146,Nymph Robe,DA207,20,20000,29,0,40,0,90,0,items_9,https://user.wartale.com/images/items/itDA207.jpg
+147,Apprentice Robe,DA208,26,30000,35,0,46,0,90,0,items_9,https://user.wartale.com/images/items/itDA208.jpg
+148,Disciple Robe,DA209,34,39000,39,0,50,0,100,0,items_9,https://user.wartale.com/images/items/itDA209.jpg
+149,Master Robe,DA210,40,47000,43,0,58,0,110,0,items_9,https://user.wartale.com/images/items/itDA210.jpg
+150,Arch Robe,DA211,48,54000,47,0,70,0,120,0,items_9,https://user.wartale.com/images/items/itDA211.jpg
+151,Saint Robe,DA212,54,62000,51,0,76,0,130,0,items_9,https://user.wartale.com/images/items/itDA212.jpg
+152,Royal Robe,DA213,60,70000,55,0,80,0,140,0,items_9,https://user.wartale.com/images/items/itDA213.jpg
+153,Mystic Robe,DA214,56,77000,60,0,86,0,150,0,items_9,https://user.wartale.com/images/items/itDA214.jpg
+154,Devine Robe,DA215,62,84000,65,0,90,0,160,0,items_9,https://user.wartale.com/images/items/itDA215.jpg
+155,Bishop Robe,DA216,64,92000,70,0,90,0,160,0,items_9,https://user.wartale.com/images/items/itDA216.jpg
+156,Celestial Robe,DA217,68,150000,75,0,90,0,170,0,items_9,https://user.wartale.com/images/items/itDA217.jpg
+157,Salvation Robe,DA218,64,220000,80,0,90,0,176,0,items_9,https://user.wartale.com/images/items/itDA218.jpg
+158,Alchemist Robe,DA219,72,320000,85,0,90,0,182,0,items_9,https://user.wartale.com/images/items/itDA219.jpg
+159,Astral Robe,DA220,76,400000,90,0,90,0,188,0,items_9,https://user.wartale.com/images/items/itDA220.jpg
+160,Archon Robe,DA221,80,480000,95,0,90,0,193,0,items_9,https://user.wartale.com/images/items/itDA221.jpg
+161,Angel Robe,DA222,86,560000,100,0,90,0,207,0,items_9,https://user.wartale.com/images/items/itDA222.jpg
+5909,Phantom Robe,DA226,60,2000000,100,0,90,0,300,0,items_9,https://user.wartale.com/images/items/itDA226.jpg
+162,Ruah Robe,DA223,92,640000,104,0,90,0,214,0,items_9,https://user.wartale.com/images/items/itDA223.jpg
+201,Inferno Robe,DA403,98,720000,106,0,90,0,221,0,items_9,https://user.wartale.com/images/items/itDA403.jpg
+163,Eternal Robe,DA224,104,790000,110,0,90,0,228,0,items_9,https://user.wartale.com/images/items/itDA224.jpg
+202,Elf Robe,DA404,110,870000,114,0,90,0,242,0,items_9,https://user.wartale.com/images/items/itDA404.jpg
+203,Lunar Robe,DA405,114,915000,116,0,90,0,251,0,items_9,https://user.wartale.com/images/items/itDA405.jpg
+164,Archangel Robe,DA225,118,960000,120,0,90,0,260,0,items_9,https://user.wartale.com/images/items/itDA225.jpg
+204,Cherub Robe,DA406,126,1060000,124,0,90,0,282,0,items_9,https://user.wartale.com/images/items/itDA406.jpg
+165,Freyja Robe,DA227,134,1200000,128,0,90,0,304,0,items_9,https://user.wartale.com/images/items/itDA227.jpg
+205,Seraphim Robe,DA407,142,1340000,132,0,90,0,326,0,items_9,https://user.wartale.com/images/items/itDA407.jpg
+11052,Chaotic Robe,DA229,150,1530000,136,0,90,0,348,0,items_9,https://user.wartale.com/images/items/itDA229.jpg
+15141,Warlock Robe,DA408,158,1750000,140,0,90,0,370,0,items_9,https://user.wartale.com/images/items/itDA408.jpg
+19219,Malefic Robe,DA409,166,2000000,144,0,100,0,392,0,items_9,https://user.wartale.com/images/items/itDA409.jpg
+20791,Worshipper Robe,DA410,174,3980000,148,0,105,0,414,0,items_9,https://user.wartale.com/images/items/itDA410.jpg
+261,Wood Shield,DS101,2,120,0,0,0,0,0,0,items_11,https://user.wartale.com/images/items/itDS101.jpg
+262,Targe,DS102,4,420,0,36,0,0,0,0,items_11,https://user.wartale.com/images/items/itDS102.jpg
+263,Steel Buckler,DS103,7,1700,0,44,0,0,0,0,items_11,https://user.wartale.com/images/items/itDS103.jpg
+264,Kite Shield,DS104,12,3300,9,50,30,0,0,0,items_11,https://user.wartale.com/images/items/itDS104.jpg
+265,Tower Shield,DS105,16,6200,16,62,36,0,0,0,items_11,https://user.wartale.com/images/items/itDS105.jpg
+266,Metal Shield,DS106,19,13000,22,74,40,0,0,0,items_11,https://user.wartale.com/images/items/itDS106.jpg
+267,Scutum,DS107,23,20000,30,78,42,0,0,0,items_11,https://user.wartale.com/images/items/itDS107.jpg
+268,Blaze Shield,DS108,27,28000,37,82,46,0,0,0,items_11,https://user.wartale.com/images/items/itDS108.jpg
+269,Claw Shield,DS109,31,35000,44,88,50,0,0,0,items_11,https://user.wartale.com/images/items/itDS109.jpg
+270,Wing Shield,DS110,35,41000,50,94,56,0,0,0,items_11,https://user.wartale.com/images/items/itDS110.jpg
+271,Great Shield,DS111,30,48000,55,105,56,0,0,0,items_11,https://user.wartale.com/images/items/itDS111.jpg
+272,Spiked Shield,DS112,38,56000,60,112,60,0,0,0,items_11,https://user.wartale.com/images/items/itDS112.jpg
+273,Grand Shield,DS113,41,61000,65,120,64,0,0,0,items_11,https://user.wartale.com/images/items/itDS113.jpg
+274,Extreme Shield,DS114,46,67000,70,124,67,0,0,0,items_11,https://user.wartale.com/images/items/itDS114.jpg
+275,Gladiator Shield,DS115,51,100000,75,128,72,0,0,0,items_11,https://user.wartale.com/images/items/itDS115.jpg
+276,Synthetic Shield,DS116,56,150000,80,130,75,0,0,0,items_11,https://user.wartale.com/images/items/itDS116.jpg
+277,Titan Shield,DS117,62,220000,84,130,75,0,0,0,items_11,https://user.wartale.com/images/items/itDS117.jpg
+278,Mystic Shield,DS118,64,310000,88,130,75,0,0,0,items_11,https://user.wartale.com/images/items/itDS118.jpg
+279,Vampire Shield,DS119,68,460000,92,130,75,0,0,0,items_11,https://user.wartale.com/images/items/itDS119.jpg
+280,Dragon Shield,DS120,74,690000,96,130,75,0,0,0,items_11,https://user.wartale.com/images/items/itDS120.jpg
+284,Dark Shield,DS301,85,820000,98,130,75,0,0,0,items_11,https://user.wartale.com/images/items/itDS301.jpg
+285,Chaos Shield,DS302,95,1000000,100,130,75,0,0,0,items_11,https://user.wartale.com/images/items/itDS302.jpg
+281,Phoenix Shield,DS121,105,1300000,104,130,75,0,0,0,items_11,https://user.wartale.com/images/items/itDS121.jpg
+286,Crystal Shield,DS303,115,1500000,106,130,75,0,0,0,items_11,https://user.wartale.com/images/items/itDS303.jpg
+282,Dreadnaught Shield,DS122,120,1750000,110,130,75,0,0,0,items_11,https://user.wartale.com/images/items/itDS122.jpg
+17159,Mythology Shield,DS125,144,2750000,110,155,75,0,80,0,items_11,https://user.wartale.com/images/items/itDS125.jpg
+287,Runic Shield,DS304,125,1900000,114,130,75,0,0,0,items_11,https://user.wartale.com/images/items/itDS304.jpg
+288,Aegis Shield,DS305,128,2000000,116,130,75,0,0,0,items_11,https://user.wartale.com/images/items/itDS305.jpg
+283,Inferno Shield,DS123,130,2100000,120,130,75,0,0,0,items_11,https://user.wartale.com/images/items/itDS123.jpg
+289,Torment Shield,DS306,135,2350000,124,140,75,0,0,0,items_11,https://user.wartale.com/images/items/itDS306.jpg
+887,Kronos Shield,DS124,141,2620000,128,150,75,0,0,0,items_11,https://user.wartale.com/images/items/itDS124.jpg
+2933,Angel Shield,DS307,147,2890000,132,160,75,0,0,0,items_11,https://user.wartale.com/images/items/itDS307.jpg
+10066,Stygian Shield,DS126,153,3160000,136,170,75,0,0,0,items_11,https://user.wartale.com/images/items/itDS126.jpg
+17150,Imperial Shield,DS308,159,3540000,140,180,75,0,0,0,items_11,https://user.wartale.com/images/items/itDS308.jpg
+19220,Nether Shield,DS309,165,4080000,144,190,80,0,0,0,items_11,https://user.wartale.com/images/items/itDS309.jpg
+20789,Valkyrie Shield,DS310,171,4690000,148,200,85,0,0,0,items_11,https://user.wartale.com/images/items/itDS310.jpg
+422,Pearl Beads,OM101,2,150,0,0,0,0,0,0,items_12,https://user.wartale.com/images/items/itOM101.jpg
+423,Crystal Sphere,OM102,3,380,0,0,0,0,0,0,items_12,https://user.wartale.com/images/items/itOM102.jpg
+424,Prizm Sphere,OM103,3,600,0,0,0,0,30,0,items_12,https://user.wartale.com/images/items/itOM103.jpg
+425,Bone Beads,OM104,4,1700,9,0,0,0,34,0,items_12,https://user.wartale.com/images/items/itOM104.jpg
+426,Skull Beads,OM105,6,4200,16,0,0,0,40,0,items_12,https://user.wartale.com/images/items/itOM105.jpg
+427,Orb,OM106,5,9000,23,0,0,0,50,0,items_12,https://user.wartale.com/images/items/itOM106.jpg
+428,Holy Orb,OM107,5,16000,30,0,0,0,60,0,items_12,https://user.wartale.com/images/items/itOM107.jpg
+429,Arch Orb,OM108,7,25000,37,0,0,0,70,0,items_12,https://user.wartale.com/images/items/itOM108.jpg
+430,Dark Moon,OM109,8,32000,44,0,0,0,80,0,items_12,https://user.wartale.com/images/items/itOM109.jpg
+431,Ceremonial Sphere,OM110,9,36000,47,0,0,0,88,0,items_12,https://user.wartale.com/images/items/itOM110.jpg
+432,Orbital Beads,OM111,11,42000,50,0,0,0,90,0,items_12,https://user.wartale.com/images/items/itOM111.jpg
+433,Harmony Sphere,OM112,13,47000,55,0,0,0,100,0,items_12,https://user.wartale.com/images/items/itOM112.jpg
+434,Angel,OM113,14,56000,60,0,0,0,108,0,items_12,https://user.wartale.com/images/items/itOM113.jpg
+435,Lucifer,OM114,18,61000,65,0,0,0,114,0,items_12,https://user.wartale.com/images/items/itOM114.jpg
+436,Astral Orb,OM115,22,68000,70,0,0,0,120,0,items_12,https://user.wartale.com/images/items/itOM115.jpg
+437,Rune Beads,OM116,20,105000,75,0,0,0,124,0,items_12,https://user.wartale.com/images/items/itOM116.jpg
+438,Creation Beads,OM117,27,150000,80,0,0,0,128,0,items_12,https://user.wartale.com/images/items/itOM117.jpg
+439,Mundane,OM118,30,225000,85,0,0,0,133,0,items_12,https://user.wartale.com/images/items/itOM118.jpg
+440,Salamander Beads,OM119,28,330000,90,0,0,0,138,0,items_12,https://user.wartale.com/images/items/itOM119.jpg
+441,Cosmos,OM120,35,500000,95,0,0,0,144,0,items_12,https://user.wartale.com/images/items/itOM120.jpg
+442,Clairvoyance,OM121,40,720000,100,0,0,0,150,0,items_12,https://user.wartale.com/images/items/itOM121.jpg
+443,Ebony Manes,OM122,44,760000,104,0,0,0,162,0,items_12,https://user.wartale.com/images/items/itOM122.jpg
+446,Kelvezu Claw,OM303,48,800000,106,0,0,0,168,0,items_12,https://user.wartale.com/images/items/itOM303.jpg
+444,Avernus Beads,OM123,52,840000,110,0,0,0,174,0,items_12,https://user.wartale.com/images/items/itOM123.jpg
+447,Dynasty Sphere,OM304,56,880000,114,0,0,0,180,0,items_12,https://user.wartale.com/images/items/itOM304.jpg
+448,Runic Orb,OM305,58,900000,116,0,0,0,184,0,items_12,https://user.wartale.com/images/items/itOM305.jpg
+445,Malice Rosary,OM124,60,920000,120,0,0,0,188,0,items_12,https://user.wartale.com/images/items/itOM124.jpg
+449,Aeon Sphere,OM306,64,960000,124,0,0,0,198,0,items_12,https://user.wartale.com/images/items/itOM306.jpg
+888,Freyja Orb,OM125,70,1100000,128,0,0,0,208,0,items_12,https://user.wartale.com/images/items/itOM125.jpg
+2934,Midranda's Bane,OM307,76,1240000,132,0,0,0,218,0,items_12,https://user.wartale.com/images/items/itOM307.jpg
+10051,Orbitron,OM300,82,1420000,136,0,0,0,275,0,items_12,https://user.wartale.com/images/items/itOM300.jpg
+17149,Sentinel,OM308,88,1720000,140,0,0,0,325,0,items_12,https://user.wartale.com/images/items/itOM308.jpg
+19221,Dreadsoul,OM309,94,2100000,144,0,0,0,367,0,items_12,https://user.wartale.com/images/items/itOM309.jpg
+20788,Nebula,OM310,100,2900000,148,0,0,0,409,40,items_12,https://user.wartale.com/images/items/itOM310.jpg
+395,Leather Armlets,OA201,2,150,0,0,0,0,0,0,items_13,https://user.wartale.com/images/items/itOA201.jpg
+396,Long Armlets,OA202,4,400,0,0,0,0,0,0,items_13,https://user.wartale.com/images/items/itOA202.jpg
+397,Wide Armlets,OA203,6,850,0,0,0,20,0,0,items_13,https://user.wartale.com/images/items/itOA203.jpg
+398,Fold Armlets,OA204,10,2500,9,40,0,22,0,0,items_13,https://user.wartale.com/images/items/itOA204.jpg
+399,Scale Armlets,OA205,12,5000,16,48,0,26,0,0,items_13,https://user.wartale.com/images/items/itOA205.jpg
+400,Elven Armlets,OA206,9,8000,22,52,0,30,0,0,items_13,https://user.wartale.com/images/items/itOA206.jpg
+401,Solid Armlets,OA207,13,13000,30,54,0,34,0,0,items_13,https://user.wartale.com/images/items/itOA207.jpg
+402,Mechanic Armlets,OA208,16,22000,37,58,0,40,0,0,items_13,https://user.wartale.com/images/items/itOA208.jpg
+403,Wing Bracelets,OA209,13,27000,44,62,0,42,0,0,items_13,https://user.wartale.com/images/items/itOA209.jpg
+404,Great Bracelets,OA210,17,31000,50,66,0,48,0,0,items_13,https://user.wartale.com/images/items/itOA210.jpg
+405,Grand Bracelets,OA211,19,40000,55,74,0,52,0,0,items_13,https://user.wartale.com/images/items/itOA211.jpg
+406,Magicial Bracelets,OA212,19,44000,60,80,0,56,0,0,items_13,https://user.wartale.com/images/items/itOA212.jpg
+407,Spike Bracelets,OA213,22,50000,65,85,0,56,0,0,items_13,https://user.wartale.com/images/items/itOA213.jpg
+408,Justice Bracelets,OA214,24,56000,70,85,0,60,0,0,items_13,https://user.wartale.com/images/items/itOA214.jpg
+409,Minotaur Bracelets,OA215,28,80000,75,90,0,64,0,0,items_13,https://user.wartale.com/images/items/itOA215.jpg
+410,Metal Bracelets,OA216,31,120000,80,90,0,66,0,0,items_13,https://user.wartale.com/images/items/itOA216.jpg
+411,Titan Bracelets,OA217,35,180000,85,90,0,68,0,0,items_13,https://user.wartale.com/images/items/itOA217.jpg
+412,Saint Bracelets,OA218,32,270000,90,90,0,70,0,0,items_13,https://user.wartale.com/images/items/itOA218.jpg
+413,Wyvern Bracelets,OA219,38,400000,95,90,0,72,0,0,items_13,https://user.wartale.com/images/items/itOA219.jpg
+414,Dragon Bracelets,OA220,43,600000,100,90,0,78,0,0,items_13,https://user.wartale.com/images/items/itOA220.jpg
+415,Inferno Bracelets,OA221,45,650000,104,90,0,83,0,0,items_13,https://user.wartale.com/images/items/itOA221.jpg
+418,Golden Bracelets,OA303,47,700000,106,90,0,88,0,0,items_13,https://user.wartale.com/images/items/itOA303.jpg
+416,Phoenix Bracelets,OA222,49,750000,110,90,0,93,0,0,items_13,https://user.wartale.com/images/items/itOA222.jpg
+419,Highlander Bracelets,OA304,51,800000,114,90,0,97,0,0,items_13,https://user.wartale.com/images/items/itOA304.jpg
+420,Eragon Bracelets,OA305,52,825000,116,90,0,98,0,0,items_13,https://user.wartale.com/images/items/itOA305.jpg
+417,Frenzy Bracelets,OA223,53,850000,120,90,0,100,0,0,items_13,https://user.wartale.com/images/items/itOA223.jpg
+421,Dryad Bracelets,OA306,55,900000,124,90,0,110,0,0,items_13,https://user.wartale.com/images/items/itOA306.jpg
+891,Kronos Bracelets,OA224,57,960000,128,90,0,115,0,0,items_13,https://user.wartale.com/images/items/itOA224.jpg
+2936,Eternal Bracelets,OA307,59,1020000,132,90,0,120,0,0,items_13,https://user.wartale.com/images/items/itOA307.jpg
+7932,Hell Bracelets,OA225,60,1050000,134,90,0,120,0,0,items_13,https://user.wartale.com/images/items/itOA225.jpg
+11053,Guardian Bracelets,OA226,63,1250000,136,90,0,125,0,0,items_13,https://user.wartale.com/images/items/itOA226.jpg
+15144,Mercurial Bracelets,OA308,67,1540000,140,90,0,130,0,0,items_13,https://user.wartale.com/images/items/itOA308.jpg
+19265,Centlon Bracelets,OA230,70,1790000,142,105,0,135,0,0,items_13,https://user.wartale.com/images/items/itOA230.jpg
+19224,Twilight Bracelets,OA309,71,1910000,144,105,0,135,0,0,items_13,https://user.wartale.com/images/items/itOA309.jpg
+20787,Seraphic Bracelets,OA310,75,2390000,148,120,0,140,0,0,items_13,https://user.wartale.com/images/items/itOA310.jpg
+234,Leather Gloves,DG101,3,100,0,0,0,0,0,0,items_14,https://user.wartale.com/images/items/itDG101.jpg
+235,Leather Half Gloves,DG102,5,340,0,0,0,0,0,0,items_14,https://user.wartale.com/images/items/itDG102.jpg
+236,Steel Half Gauntlets,DG103,8,780,0,38,0,0,0,0,items_14,https://user.wartale.com/images/items/itDG103.jpg
+237,Clamshell Gauntlets,DG104,12,2500,9,40,30,0,0,0,items_14,https://user.wartale.com/images/items/itDG104.jpg
+238,Finger Gauntlets,DG105,15,6600,16,50,40,0,0,0,items_14,https://user.wartale.com/images/items/itDG105.jpg
+239,Gothic Gauntlets,DG106,17,12000,22,60,50,0,0,0,items_14,https://user.wartale.com/images/items/itDG106.jpg
+240,War Gauntlets,DG107,19,18000,30,70,50,0,0,0,items_14,https://user.wartale.com/images/items/itDG107.jpg
+241,Metal Gauntlets,DG108,22,26000,37,80,50,0,0,0,items_14,https://user.wartale.com/images/items/itDG108.jpg
+242,Holy Gauntlets,DG109,18,32000,44,60,50,0,30,0,items_14,https://user.wartale.com/images/items/itDG109.jpg
+243,Great Gauntlets,DG110,24,37000,50,70,50,50,0,0,items_14,https://user.wartale.com/images/items/itDG110.jpg
+244,Brass Gauntlets,DG111,26,41000,55,85,50,50,0,0,items_14,https://user.wartale.com/images/items/itDG111.jpg
+245,Giant Gauntlets,DG112,27,47000,60,80,55,55,0,0,items_14,https://user.wartale.com/images/items/itDG112.jpg
+246,Titan Gauntlets,DG113,32,54000,65,90,60,60,0,0,items_14,https://user.wartale.com/images/items/itDG113.jpg
+247,Grand Gauntlets,DG114,30,61000,70,100,65,65,0,0,items_14,https://user.wartale.com/images/items/itDG114.jpg
+248,Ivory Gauntlets,DG115,28,90000,75,90,70,70,40,0,items_14,https://user.wartale.com/images/items/itDG115.jpg
+249,Saint Gauntlets,DG116,27,140000,80,94,70,74,40,0,items_14,https://user.wartale.com/images/items/itDG116.jpg
+250,Diamond Gauntlets,DG117,35,200000,85,100,70,74,0,0,items_14,https://user.wartale.com/images/items/itDG117.jpg
+251,Angel Gauntlets,DG118,32,270000,90,94,70,74,40,0,items_14,https://user.wartale.com/images/items/itDG118.jpg
+252,Relic Gauntlets,DG119,39,380000,95,100,72,74,40,0,items_14,https://user.wartale.com/images/items/itDG119.jpg
+253,Dragon Gauntlets,DG120,42,560000,100,100,78,77,40,0,items_14,https://user.wartale.com/images/items/itDG120.jpg
+254,Inferno Gauntlets,DG121,45,600000,104,100,80,77,40,0,items_14,https://user.wartale.com/images/items/itDG121.jpg
+257,Golden Gauntlets,DG303,48,640000,106,100,82,77,40,0,items_14,https://user.wartale.com/images/items/itDG303.jpg
+255,Phoenix Gauntlets,DG122,51,680000,110,100,84,77,40,0,items_14,https://user.wartale.com/images/items/itDG122.jpg
+258,Highlander Gauntlets,DG304,54,720000,114,100,86,77,40,0,items_14,https://user.wartale.com/images/items/itDG304.jpg
+259,Eragon Gauntlets,DG305,55,740000,116,100,87,77,40,0,items_14,https://user.wartale.com/images/items/itDG305.jpg
+256,Frenzy Gauntlets,DG123,57,760000,120,100,88,77,40,0,items_14,https://user.wartale.com/images/items/itDG123.jpg
+260,Dryad Gauntlets,DG306,60,800000,124,100,90,77,40,0,items_14,https://user.wartale.com/images/items/itDG306.jpg
+889,Kronos Gauntlets,DG124,66,890000,128,100,90,77,40,0,items_14,https://user.wartale.com/images/items/itDG124.jpg
+2932,Eternal Gauntlets,DG307,72,980000,132,100,90,77,40,0,items_14,https://user.wartale.com/images/items/itDG307.jpg
+7933,Hell Gauntlets,DG125,78,1070000,134,100,90,77,40,0,items_14,https://user.wartale.com/images/items/itDG125.jpg
+11054,Guardian Gauntlets,DG126,82,1240000,136,100,90,77,40,0,items_14,https://user.wartale.com/images/items/itDG126.jpg
+17151,Greedy Gauntlets,DG130,82,1430000,136,100,90,77,40,0,items_14,https://user.wartale.com/images/items/itDG130.jpg
+15142,Mercurial Gauntlets,DG308,92,1520000,140,110,90,82,40,0,items_14,https://user.wartale.com/images/items/itDG308.jpg
+19222,Twilight Gauntlets,DG309,102,1880000,144,122,95,87,60,0,items_14,https://user.wartale.com/images/items/itDG309.jpg
+20949,Uppruni Gauntlets,DG131,106,2090000,146,128,98,90,63,0,items_14,https://user.wartale.com/images/items/itDG131.jpg
+20785,Seraphic Gauntlets,DG310,110,2350000,148,134,100,92,65,0,items_14,https://user.wartale.com/images/items/itDG310.jpg
+206,Leather Boots,DB101,2,110,0,0,0,0,0,0,items_15,https://user.wartale.com/images/items/itDB101.jpg
+207,Elven Boots,DB102,3,480,0,0,0,0,24,0,items_15,https://user.wartale.com/images/items/itDB102.jpg
+208,Steel Boots,DB103,4,1200,0,34,0,0,0,0,items_15,https://user.wartale.com/images/items/itDB103.jpg
+209,Long Boots,DB104,5,2800,9,40,0,30,0,0,items_15,https://user.wartale.com/images/items/itDB104.jpg
+210,Chain Boots,DB105,7,6600,16,55,0,40,0,0,items_15,https://user.wartale.com/images/items/itDB105.jpg
+211,Plated Boots,DB106,9,14000,22,60,0,50,0,0,items_15,https://user.wartale.com/images/items/itDB106.jpg
+212,Brass Boots,DB107,14,26000,30,65,0,55,0,0,items_15,https://user.wartale.com/images/items/itDB107.jpg
+213,War Boots,DB108,17,31000,37,70,0,60,0,0,items_15,https://user.wartale.com/images/items/itDB108.jpg
+214,Mechanic Boots,DB109,20,36000,44,70,0,65,0,0,items_15,https://user.wartale.com/images/items/itDB109.jpg
+215,Chaos Boots,DB110,17,41000,50,60,0,65,30,0,items_15,https://user.wartale.com/images/items/itDB110.jpg
+216,Holy Boots,DB111,21,46000,55,60,0,55,56,0,items_15,https://user.wartale.com/images/items/itDB111.jpg
+217,Spike Boots,DB112,24,52000,60,87,0,80,0,0,items_15,https://user.wartale.com/images/items/itDB112.jpg
+218,Grand Boots,DB113,26,57000,65,96,0,82,0,0,items_15,https://user.wartale.com/images/items/itDB113.jpg
+219,Wing Boots,DB114,22,63000,70,90,0,86,0,0,items_15,https://user.wartale.com/images/items/itDB114.jpg
+220,Titan Boots,DB115,28,90000,75,90,0,90,0,0,items_15,https://user.wartale.com/images/items/itDB115.jpg
+221,Saint Boots,DB116,27,130000,80,90,0,90,40,0,items_15,https://user.wartale.com/images/items/itDB116.jpg
+222,Wyvern Boots,DB117,32,190000,85,90,0,90,40,0,items_15,https://user.wartale.com/images/items/itDB117.jpg
+223,Rune Boots,DB118,33,280000,90,80,0,90,40,0,items_15,https://user.wartale.com/images/items/itDB118.jpg
+224,Royal Boots,DB119,36,410000,95,80,0,90,40,0,items_15,https://user.wartale.com/images/items/itDB119.jpg
+225,Dragon Boots,DB120,42,620000,100,90,0,90,40,0,items_15,https://user.wartale.com/images/items/itDB120.jpg
+226,Inferno Boots,DB121,45,660000,104,90,0,90,40,0,items_15,https://user.wartale.com/images/items/itDB121.jpg
+229,Mokova Boots,DB130,45,660000,105,50,0,90,40,0,items_15,https://user.wartale.com/images/items/itDB130.jpg
+230,Golden Boots,DB303,48,700000,106,90,0,90,40,0,items_15,https://user.wartale.com/images/items/itDB303.jpg
+227,Phoenix Boots,DB122,51,740000,110,90,0,90,40,0,items_15,https://user.wartale.com/images/items/itDB122.jpg
+231,Highlander Boots,DB304,54,780000,114,90,0,90,40,0,items_15,https://user.wartale.com/images/items/itDB304.jpg
+232,Eragon Boots,DB305,55,800000,116,90,0,90,40,0,items_15,https://user.wartale.com/images/items/itDB305.jpg
+228,Frenzy Boots,DB123,57,820000,120,90,0,90,40,0,items_15,https://user.wartale.com/images/items/itDB123.jpg
+233,Dryad Boots,DB306,60,860000,124,90,0,90,40,0,items_15,https://user.wartale.com/images/items/itDB306.jpg
+890,Kronos Boots,DB124,66,950000,128,90,0,90,40,0,items_15,https://user.wartale.com/images/items/itDB124.jpg
+2935,Eternal Boots,DB307,72,1040000,132,90,0,90,40,0,items_15,https://user.wartale.com/images/items/itDB307.jpg
+7934,Hell Boots,DB125,78,1130000,134,90,0,90,40,0,items_15,https://user.wartale.com/images/items/itDB125.jpg
+11055,Guardian Boots,DB126,82,1310000,136,90,0,90,40,0,items_15,https://user.wartale.com/images/items/itDB126.jpg
+16140,Draxos Boots,DB131,86,1500000,138,90,0,90,40,0,items_15,https://user.wartale.com/images/items/itDB131.jpg
+15143,Mercurial Boots,DB308,92,1620000,140,100,0,90,40,0,items_15,https://user.wartale.com/images/items/itDB308.jpg
+19223,Twilight Boots,DB309,102,1820000,144,110,0,95,60,0,items_15,https://user.wartale.com/images/items/itDB309.jpg
+20786,Seraphic Boots,DB310,110,2275000,148,120,0,100,65,0,items_15,https://user.wartale.com/images/items/itDB310.jpg
+364,Round Amulet,OA101,1,100,0,0,0,0,0,0,items_16,https://user.wartale.com/images/items/itOA101.jpg
+365,Round Amulet +1,OA102,1,200,0,0,0,0,0,0,items_16,https://user.wartale.com/images/items/itOA102.jpg
+366,Round Amulet +2,OA103,1,300,0,0,0,0,0,0,items_16,https://user.wartale.com/images/items/itOA103.jpg
+367,Round Amulet +3,OA104,1,500,0,0,0,0,0,0,items_16,https://user.wartale.com/images/items/itOA104.jpg
+368,Gem Amulet,OA105,2,1000,5,0,0,0,20,0,items_16,https://user.wartale.com/images/items/itOA105.jpg
+369,Gem Amulet +1,OA106,2,1800,10,0,0,0,24,0,items_16,https://user.wartale.com/images/items/itOA106.jpg
+370,Gem Amulet +2,OA107,2,2400,15,0,0,0,28,0,items_16,https://user.wartale.com/images/items/itOA107.jpg
+371,Gem Amulet +3,OA108,2,3000,20,0,0,0,32,0,items_16,https://user.wartale.com/images/items/itOA108.jpg
+372,Magic Amulet,OA109,3,4000,25,0,0,0,36,0,items_16,https://user.wartale.com/images/items/itOA109.jpg
+373,Magic Amulet +1,OA110,3,6000,30,0,0,0,40,0,items_16,https://user.wartale.com/images/items/itOA110.jpg
+374,Magic Amulet +2,OA111,3,8000,35,0,0,0,44,0,items_16,https://user.wartale.com/images/items/itOA111.jpg
+375,Magic Amulet +3,OA112,3,10000,40,0,0,0,48,0,items_16,https://user.wartale.com/images/items/itOA112.jpg
+376,Rune Amulet,OA113,4,15000,45,0,0,0,52,0,items_16,https://user.wartale.com/images/items/itOA113.jpg
+377,Rune Amulet +1,OA114,4,20000,50,0,0,0,56,0,items_16,https://user.wartale.com/images/items/itOA114.jpg
+378,Rune Amulet +2,OA115,4,25000,55,0,0,0,60,0,items_16,https://user.wartale.com/images/items/itOA115.jpg
+379,Rune Amulet +3,OA116,5,30000,60,0,0,0,65,0,items_16,https://user.wartale.com/images/items/itOA116.jpg
+380,Sealed Amulet,OA117,5,35000,65,0,0,0,70,0,items_16,https://user.wartale.com/images/items/itOA117.jpg
+381,Sealed Amulet +1,OA118,5,40000,70,0,0,0,70,0,items_16,https://user.wartale.com/images/items/itOA118.jpg
+382,Sealed Amulet +2,OA119,5,45000,75,0,0,0,70,0,items_16,https://user.wartale.com/images/items/itOA119.jpg
+383,Sealed Amulet +3,OA120,5,50000,80,0,0,0,70,0,items_16,https://user.wartale.com/images/items/itOA120.jpg
+392,Kelvezu Amulet,OA130,5,100000,80,0,0,0,80,0,items_16,https://user.wartale.com/images/items/itOA130.jpg
+384,Mystic Amulet,OA121,5,60000,85,0,0,0,75,0,items_16,https://user.wartale.com/images/items/itOA121.jpg
+385,Mystic Amulet +1,OA122,5,70000,90,0,0,0,75,0,items_16,https://user.wartale.com/images/items/itOA122.jpg
+386,Mystic Amulet +2,OA123,5,85000,95,0,0,0,75,0,items_16,https://user.wartale.com/images/items/itOA123.jpg
+387,Mystic Amulet +3,OA124,5,100000,100,0,0,0,75,0,items_16,https://user.wartale.com/images/items/itOA124.jpg
+394,Tulla Amulet,OA132,5,200000,100,0,0,0,90,0,items_16,https://user.wartale.com/images/items/itOA132.jpg
+388,Spirit Amulet,OA125,6,120000,105,0,0,0,80,0,items_16,https://user.wartale.com/images/items/itOA125.jpg
+389,Spirit Amulet +1,OA126,6,140000,110,0,0,0,80,0,items_16,https://user.wartale.com/images/items/itOA126.jpg
+390,Spirit Amulet +2,OA127,6,160000,115,0,0,0,80,0,items_16,https://user.wartale.com/images/items/itOA127.jpg
+391,Spirit Amulet +3,OA128,6,180000,120,0,0,0,80,0,items_16,https://user.wartale.com/images/items/itOA128.jpg
+393,Throne Amulet,OA131,5,400000,120,0,0,0,100,0,items_16,https://user.wartale.com/images/items/itOA131.jpg
+6915,Enigma Amulet,OA141,6,200000,122,0,0,0,80,0,items_16,https://user.wartale.com/images/items/itOA141.jpg
+6916,Enigma Amulet +1,OA142,6,220000,124,0,0,0,80,0,items_16,https://user.wartale.com/images/items/itOA142.jpg
+6917,Enigma Amulet +2,OA143,6,240000,126,0,0,0,80,0,items_16,https://user.wartale.com/images/items/itOA143.jpg
+6918,Enigma Amulet +3,OA144,6,260000,128,0,0,0,80,0,items_16,https://user.wartale.com/images/items/itOA144.jpg
+11068,Guide Amulet,OA145,6,280000,130,0,0,0,80,0,items_16,https://user.wartale.com/images/items/itOA145.jpg
+19238,Guide Amulet +1,OA146,7,320000,134,0,0,0,85,0,items_16,https://user.wartale.com/images/items/itOA146.jpg
+19239,Guide Amulet +2,OA147,7,360000,138,0,0,0,90,0,items_16,https://user.wartale.com/images/items/itOA147.jpg
+19240,Guide Amulet +3,OA148,7,400000,142,0,0,0,95,0,items_16,https://user.wartale.com/images/items/itOA148.jpg
+20813,Sage Amulet,OA149,8,460000,145,0,0,0,100,0,items_16,https://user.wartale.com/images/items/itOA149.jpg
+20849,Sash Belt,OB101,6,72000,50,0,52,0,0,0,items_23,https://user.wartale.com/images/items/itOB101.jpg
+20850,Leather Belt,OB102,10,210000,113,0,70,0,0,0,items_23,https://user.wartale.com/images/items/itOB102.jpg
+20851,Leather Belt +1,OB103,10,230000,120,0,78,0,0,0,items_23,https://user.wartale.com/images/items/itOB103.jpg
+20852,Leather Belt +2,OB104,11,260000,127,0,86,0,0,0,items_23,https://user.wartale.com/images/items/itOB104.jpg
+20897,Leather Belt +3,OB105,11,310000,134,0,94,0,0,0,items_23,https://user.wartale.com/images/items/itOB105.jpg
+21031,Leviathan Belt,OB106,11,260000,137,0,93,0,0,40,items_23,https://user.wartale.com/images/items/itOB106.jpg
+21032,Leviathan Belt +1,OB107,11,310000,139,0,96,0,0,42,items_23,https://user.wartale.com/images/items/itOB107.jpg
+21033,Leviathan Belt +2,OB108,12,370000,141,0,99,0,0,44,items_23,https://user.wartale.com/images/items/itOB108.jpg
+21034,Leviathan Belt +3,OB109,12,440000,143,0,102,0,0,46,items_23,https://user.wartale.com/images/items/itOB109.jpg
+20383,Ordinary Earrings,OE101,5,50000,60,0,0,0,0,39,items_22,https://user.wartale.com/images/items/itOE101.jpg
+20384,Ordinary Earrings +1,OE102,7,100000,69,0,0,0,0,43,items_22,https://user.wartale.com/images/items/itOE102.jpg
+20385,Ordinary Earrings +2,OE103,9,150000,78,0,0,0,0,47,items_22,https://user.wartale.com/images/items/itOE103.jpg
+20386,Ordinary Earrings +3,OE104,11,200000,87,0,0,0,0,51,items_22,https://user.wartale.com/images/items/itOE104.jpg
+20565,Grace Earrings,OE105,11,210000,105,0,0,0,0,41,items_22,https://user.wartale.com/images/items/itOE105.jpg
+20569,Resplendent Earrings,OE109,11,210000,107,0,0,0,55,32,items_22,https://user.wartale.com/images/items/itOE109.jpg
+20573,Vivid Earrings,OE113,11,210000,107,0,0,59,0,32,items_22,https://user.wartale.com/images/items/itOE113.jpg
+20566,Grace Earrings +1,OE106,12,230000,113,0,0,0,0,51,items_22,https://user.wartale.com/images/items/itOE106.jpg
+20570,Resplendent Earrings +1,OE110,12,230000,116,0,0,0,68,36,items_22,https://user.wartale.com/images/items/itOE110.jpg
+20574,Vivid Earrings +1,OE114,12,230000,116,0,0,74,0,36,items_22,https://user.wartale.com/images/items/itOE114.jpg
+20567,Grace Earrings +2,OE107,13,260000,122,0,0,0,0,61,items_22,https://user.wartale.com/images/items/itOE107.jpg
+20571,Resplendent Earrings +2,OE111,13,260000,125,0,0,0,81,40,items_22,https://user.wartale.com/images/items/itOE111.jpg
+20575,Vivid Earrings +2,OE115,13,260000,125,0,0,86,0,40,items_22,https://user.wartale.com/images/items/itOE115.jpg
+20577,Triadic Earrings,OE117,11,210000,138,0,0,78,81,44,items_22,https://user.wartale.com/images/items/itOE117.jpg
+20578,Triadic Earrings +1,OE118,12,280000,141,0,0,83,82,47,items_22,https://user.wartale.com/images/items/itOE118.jpg
+20579,Triadic Earrings +2,OE119,13,310000,144,0,0,88,83,51,items_22,https://user.wartale.com/images/items/itOE119.jpg
+450,Round Ring,OR101,1,100,0,0,0,0,0,0,items_17,https://user.wartale.com/images/items/itOR101.jpg
+451,Round Ring +1,OR102,1,200,0,0,0,0,0,0,items_17,https://user.wartale.com/images/items/itOR102.jpg
+452,Round Ring +2,OR103,1,300,0,0,0,0,0,0,items_17,https://user.wartale.com/images/items/itOR103.jpg
+453,Round Ring +3,OR104,1,500,0,0,0,0,0,0,items_17,https://user.wartale.com/images/items/itOR104.jpg
+454,Gem Ring,OR105,2,1000,5,0,0,0,20,0,items_17,https://user.wartale.com/images/items/itOR105.jpg
+455,Gem Ring +1,OR106,2,1800,10,0,0,0,24,0,items_17,https://user.wartale.com/images/items/itOR106.jpg
+456,Gem Ring +2,OR107,2,2400,15,0,0,0,28,0,items_17,https://user.wartale.com/images/items/itOR107.jpg
+457,Gem Ring +3,OR108,2,3000,20,0,0,0,32,0,items_17,https://user.wartale.com/images/items/itOR108.jpg
+458,Magic Ring,OR109,3,4000,25,0,0,0,36,0,items_17,https://user.wartale.com/images/items/itOR109.jpg
+459,Magic Ring +1,OR110,3,6000,30,0,0,0,40,0,items_17,https://user.wartale.com/images/items/itOR110.jpg
+460,Magic Ring +2,OR111,3,8000,35,0,0,0,44,0,items_17,https://user.wartale.com/images/items/itOR111.jpg
+461,Magic Ring +3,OR112,3,10000,40,0,0,0,48,0,items_17,https://user.wartale.com/images/items/itOR112.jpg
+21177,Granny's Ring,OR209,3,10000,40,0,0,0,0,0,items_17,https://user.wartale.com/images/items/itOR209.jpg
+462,Rune Ring,OR113,4,15000,45,0,0,0,52,0,items_17,https://user.wartale.com/images/items/itOR113.jpg
+463,Rune Ring +1,OR114,4,20000,50,0,0,0,56,0,items_17,https://user.wartale.com/images/items/itOR114.jpg
+464,Rune Ring +2,OR115,4,25000,55,0,0,0,60,0,items_17,https://user.wartale.com/images/items/itOR115.jpg
+465,Rune Ring +3,OR116,5,30000,60,0,0,0,65,0,items_17,https://user.wartale.com/images/items/itOR116.jpg
+466,Sealed Ring,OR117,5,35000,65,0,0,0,70,0,items_17,https://user.wartale.com/images/items/itOR117.jpg
+467,Sealed Ring +1,OR118,5,40000,70,0,0,0,70,0,items_17,https://user.wartale.com/images/items/itOR118.jpg
+468,Sealed Ring +2,OR119,5,45000,75,0,0,0,70,0,items_17,https://user.wartale.com/images/items/itOR119.jpg
+469,Sealed Ring +3,OR120,5,50000,80,0,0,0,70,0,items_17,https://user.wartale.com/images/items/itOR120.jpg
+484,Valento Ring,OR205,5,100000,80,0,0,0,80,0,items_17,https://user.wartale.com/images/items/itOR205.jpg
+470,Mystic Ring,OR121,5,60000,85,0,0,0,80,0,items_17,https://user.wartale.com/images/items/itOR121.jpg
+471,Mystic Ring +1,OR122,5,70000,90,0,0,0,80,0,items_17,https://user.wartale.com/images/items/itOR122.jpg
+472,Mystic Ring +2,OR123,5,85000,95,0,0,0,80,0,items_17,https://user.wartale.com/images/items/itOR123.jpg
+473,Mystic Ring +3,OR124,5,100000,100,0,0,0,80,0,items_17,https://user.wartale.com/images/items/itOR124.jpg
+479,Lucifer Ring,OR132,5,200000,100,0,0,0,90,0,items_17,https://user.wartale.com/images/items/itOR132.jpg
+474,Spirit Ring,OR125,6,120000,105,0,0,0,90,0,items_17,https://user.wartale.com/images/items/itOR125.jpg
+475,Spirit Ring +1,OR126,6,140000,110,0,0,0,90,0,items_17,https://user.wartale.com/images/items/itOR126.jpg
+476,Spirit Ring +2,OR127,6,160000,115,0,0,0,90,0,items_17,https://user.wartale.com/images/items/itOR127.jpg
+477,Spirit Ring +3,OR128,6,180000,120,0,0,0,90,0,items_17,https://user.wartale.com/images/items/itOR128.jpg
+478,Throne Ring,OR131,5,400000,120,0,0,0,100,0,items_17,https://user.wartale.com/images/items/itOR131.jpg
+6911,Enigma Ring,OR141,6,200000,122,0,0,0,90,0,items_17,https://user.wartale.com/images/items/itOR141.jpg
+6912,Enigma Ring +1,OR142,6,220000,124,0,0,0,90,0,items_17,https://user.wartale.com/images/items/itOR142.jpg
+6913,Enigma Ring +2,OR143,6,240000,126,0,0,0,90,0,items_17,https://user.wartale.com/images/items/itOR143.jpg
+6914,Enigma Ring +3,OR144,6,260000,128,0,0,0,90,0,items_17,https://user.wartale.com/images/items/itOR144.jpg
+11069,Guide Ring,OR145,6,280000,130,0,0,0,90,0,items_17,https://user.wartale.com/images/items/itOR145.jpg
+19235,Guide Ring +1,OR146,7,320000,134,0,0,0,92,0,items_17,https://user.wartale.com/images/items/itOR146.jpg
+19236,Guide Ring +2,OR147,7,360000,138,0,0,0,94,0,items_17,https://user.wartale.com/images/items/itOR147.jpg
+19237,Guide Ring +3,OR148,7,400000,142,0,0,0,96,0,items_17,https://user.wartale.com/images/items/itOR148.jpg
+20809,Sage Ring,OR149,8,460000,145,0,0,0,98,0,items_17,https://user.wartale.com/images/items/itOR149.jpg
+485,Lucidy,OS101,2,1000,5,0,0,0,0,0,items_18,https://user.wartale.com/images/items/itOS101.jpg
+486,Sereneo,OS102,2,2000,12,0,0,0,0,0,items_18,https://user.wartale.com/images/items/itOS102.jpg
+487,Fadeo,OS103,2,4000,20,0,0,0,30,0,items_18,https://user.wartale.com/images/items/itOS103.jpg
+488,Sparky,OS104,2,8000,30,0,0,0,40,0,items_18,https://user.wartale.com/images/items/itOS104.jpg
+489,Raident,OS105,2,15000,40,0,0,0,50,0,items_18,https://user.wartale.com/images/items/itOS105.jpg
+490,Transparo,OS106,2,30000,45,0,0,0,65,0,items_18,https://user.wartale.com/images/items/itOS106.jpg
+491,Murky,OS107,2,50000,50,0,0,0,80,0,items_18,https://user.wartale.com/images/items/itOS107.jpg
+492,Devine,OS108,2,70000,55,0,0,0,90,0,items_18,https://user.wartale.com/images/items/itOS108.jpg
+493,Celesto,OS109,2,100000,60,0,0,0,100,0,items_18,https://user.wartale.com/images/items/itOS109.jpg
+494,Mirage,OS110,2,140000,70,0,0,0,110,0,items_18,https://user.wartale.com/images/items/itOS110.jpg
+495,Inferna,OS111,2,200000,80,0,0,0,120,0,items_18,https://user.wartale.com/images/items/itOS111.jpg
+500,Dark Guardian Sheltom,OS130,5,100000,80,0,0,0,80,0,items_18,https://user.wartale.com/images/items/itOS130.jpg
+496,Enigma,OS112,2,260000,90,0,0,0,130,0,items_18,https://user.wartale.com/images/items/itOS112.jpg
+497,Bellum,OS113,2,320000,100,0,0,0,140,0,items_18,https://user.wartale.com/images/items/itOS113.jpg
+502,Fury Sheltom,OS132,5,200000,100,0,0,0,90,0,items_18,https://user.wartale.com/images/items/itOS132.jpg
+498,Oredo,OS114,2,380000,110,0,0,0,150,0,items_18,https://user.wartale.com/images/items/itOS114.jpg
+499,Sapphire,OS115,2,440000,115,0,0,0,155,0,items_18,https://user.wartale.com/images/items/itOS115.jpg
+5911,Sol,OS116,2,500000,120,0,0,0,160,0,items_18,https://user.wartale.com/images/items/itOS116.jpg
+501,Throne Sheltom,OS131,5,400000,120,0,0,0,100,0,items_18,https://user.wartale.com/images/items/itOS131.jpg
