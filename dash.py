@@ -1,37 +1,75 @@
 import streamlit as st
+import sqlite3
+import pandas as pd
 
-original_title = '<h1 style="font-family: serif; color:white; font-size: 20px;">Item Inspector   </h1>'
-st.markdown(original_title, unsafe_allow_html=True)
+
+item_type = st.selectbox(
+   "Items",
+   ("Weapons","Defense","Accesories"),
+   index=None,
+   placeholder="Select and item type",
+)
+
+if item_type == "Weapons":
+  item =  st.selectbox(
+        "Weapons",
+        ("Axes",
+        "Bows",
+        "Claws",
+        "Daggers",
+        "Fists",
+        "Hammers",
+        "Javelins",
+        "Phantoms",
+        "Scythes",
+        "Swords",
+        "Wands & Staffs"),
+        index=None,
+        placeholder="Select weapon",
+    )
+    
+elif item_type == "Defense":
+   item = st.selectbox(
+        "Defense",
+        ("Armors",
+        "Robes",
+        "Shields",
+        "Orbs",
+        "Bracelets",
+        "Gauntlets",
+        "Boots"),
+        index=None,
+        placeholder="Select defense",
+    )
+else:
+  item =  st.selectbox(
+        "Accesories",
+        ("Amulets",
+        "Belts",
+        "Rings",
+        "Earrings"),
+        index=None,
+        placeholder="Select accesories",
+    )
+
+conn = sqlite3.connect('ItemsDB.db')
+cursor = conn.cursor()
 
 
-# Set the background image
-background_image = """
-<style>
-[data-testid="stAppViewContainer"] > .main {
-    background-image: url("https://user.wartale.com/images/background.jpg");
-    background-size: 100vw 100vh;  # This sets the size to cover 100% of the viewport width and height
-    background-position: center;  
-    background-repeat: no-repeat;
-}
-</style>
+item_query = """
+SELECT
+    b.item_name,
+    b.Level 
+FROM items i 
+LEFT JOIN bitems b ON i.items = b.items 
+WHERE i."type" = ?
+ORDER BY b.Level ASC
 """
 
-st.markdown(background_image, unsafe_allow_html=True)
+cursor.execute(item_query, (item,))
+rows = cursor.fetchall()
 
 
+list_selected_item = [f"{row[0]} - {row[1]}" for row in rows]
 
-input_style = """
-<style>
-input[type="text"] {
-    background-color: transparent;
-    color: #a19eae;  // This changes the text color inside the input box
-}
-div[data-baseweb="base-input"] {
-    background-color: transparent !important;
-}
-[data-testid="stAppViewContainer"] {
-    background-color: transparent !important;
-}
-</style>
-"""
-st.markdown(input_style, unsafe_allow_html=True)
+selected_item =st.selectbox("Select an item", list_selected_item)
